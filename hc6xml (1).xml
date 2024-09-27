@@ -1,11 +1,3 @@
-<sets>
-<set>
-<name>HC6</name>
-<longname>HellsCube 6</longname>
-<settype>Custom</settype><releasedate></releasedate>
-</set>
-</sets>
-
 <cards><card>
 <name>Odric, Lunatic</name>
 <set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ejN4jMmB2RDlKWad88Mgj9mjCwXEhABo">HC6</set>
