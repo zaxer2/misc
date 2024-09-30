@@ -1,0 +1,4594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>HC6</name>
+<longname>HellsCube 6</longname>
+<settype>Custom</settype><releasedate></releasedate>
+</set>
+</sets>
+
+<cards>
+
+<card>
+<name>Eggs Aisle</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1FlNYRNcovZcWrz6p2cJ9qrRiePJAPqv3">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>Eggs Aisle enters the battlefield tapped. As it does, choose a color other then white. {T}: Add {W} or one mana of the chosen color. {2}{W},{T}: Choose target card in exile and create a 0/2 white Egg creature token. When that token leaves the battlefield, put the exiled card into your hand.</text>
+
+</card>
+
+<card>
+<name>Flashback in Flames</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1PJ5hqJpV0QwEWQtWIl-3-foZ2bG_ZlUu">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Add {R}.\n{3}{R}, {T}: Target instant or sorcery in your graveyard becomes target nontoken creature's traumatic backstory. The creature gains "Sacrifice this creature: Flashback its traumatic backstory."</text>
+
+</card>
+
+<card>
+<name>Scubed Paleontologist</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1k3bfj0zfUETg9vTYMJbG6-mbll-C6Zpd">HC6</set>
+<color>G</color>
+<manacost>2GG</manacost>
+<cmc>4</cmc>
+<type>Creature</type>
+<text>{T}: Add one mana of any color.\nBirds are also Dinosaurs. (It's a fact.)\nSpells you cast have affinity for permanents with one or more of: Dinosaur type, trample, 6 power, 6 toughness, mana value 6 or a colored mana cost of exactly {G}{G}.</text>
+
+</card>
+
+<card>
+<name>Who Ruined Magic: the Gathering?</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1QBUL-BwH7g3jNqIy3Q2Tw6lCtZ0xrxUc">HC6</set>
+<color>U</color>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>I don't like Thing! Who is responsible for Thing? — When this Case enters, remove a nonmana ability from target permanent.\nTo "Solve": Blame Mark Rosewater — The total mana value of cards in your graveyard is 6 or more. (You do not need to collect evidence.)\nSolved: Cospiracy Theorist — Creatures you control have "When this attacks, you may pay 1 and discard a card. If you do, draw a card."</text>
+
+</card>
+
+<card>
+<name>Handyman</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1KpanFy-s_KovMQsm3iU0CIkqSVMjzF4p">HC6</set>
+<color>U</color>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<type>Creature</type>
+<text>Whenever you draw a card, Handyman draws a card from your library.\nHandyman gets +1/+1 for each card in it.\n You may cast spells from Handyman by giving it -X/-X until end of turn, where X is the mana value of that spell. (You still have to pay any other costs.)</text>
+
+</card>
+
+<card>
+<name>Hell's Half-Acre</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1h_USJdFAr73wx-e0aNtev9z6OwJYVWIP">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land Zone</type>
+<text>Torment (Creatures in Hell's Half-Acre can't have damage removed. The suffering never ends)\n{T}: Add {B}.\n{T}: If this land is empty, put a creature from your graveyard in it (It's like exile, but with damage. Creatures can't do anything but suffer). Deal 1 damage to the creature in this land and add 1 mana of any of its colors; if it dies or this land is destroyed, put it at the bottom of your library.</text>
+
+</card>
+
+<card>
+<name>Odric, Lunatic</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ejN4jMmB2RDlKWad88Mgj9mjCwXEhABo">HC6</set>
+<color>W</color>
+<color>B</color>
+<manacost>3WWBB</manacost>
+<cmc>7</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>At the beginning of each combat, Odric, Lunatic gain first strike until end of turn. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.</text>
+
+</card>
+
+<card>
+<name>Master Chief</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1AkjGyHz_iYctJ3YSm11LXcBWlP4ZCQo4">HC6</set>
+<color>G</color>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Commander creatures you own have "This creature enters the battlefield with an additional +1/+1 counter on it" and "Other creatures you control enter the battlefield with an additional +1/+1 counter on them."
+Choose a background.</text>
+
+</card>
+
+<card>
+<name>Maro, Trigger Happy</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1uaneIyDQZaxHKMo3Rxo72RTsBrdcyNdb">HC6</set>
+<color>R</color>
+<manacost>5R</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>4/2</pt>
+<text>Double strike
+If a triggered ability you control triggers, it triggers twice instead.</text>
+
+</card>
+
+<card>
+<name>Toolbox Toolbox Toolbox</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1JzlMjAl1XX0WlPbR8Yr4UyMU6Ew9J1f4">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<type>Artifact Creature</type> <pt>2/2</pt>
+<text>Each artifact spell you cast has blitz. The blitz cost is equal to its mana cost. (You may choose to cast that spell for its blitz cost. If you do, it gains haste and "When this artifact dies, draw a card." Sacrifice it at the beginning of the next end step.)
+If Toolbox "Toolbox" Toolbox is your commander, artifact cards in your deck have veDoid. (They have no color identity.)</text>
+
+</card>
+
+<card>
+<name>Fblthp, Third Wheel</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1lxY-VRJgx6X880evB93eEU_Z7uK9SJAJ">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Prismatic Piper text
+Whenever you cast a spell from the command zone, if Fblthp was in the command zone when it was cast, shuffle that spell into its owner's library.
+Third Wheel (You may have three commanders if two have partner and the other has third wheel.)</text>
+
+</card>
+
+<card>
+<name>Ms. Fizzle, Opportunistic Educator</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/14E-rZ0Vm7PdTFbPYxC_q5DI0FFjz_Yxs">HC6</set>
+<color>U</color>
+<color>R</color>
+<manacost>UR</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/3</pt>
+<text>Prowess
+Whenever a spell fizzles, discover X, where X is its mana value.
+Whenever Ms. Fizzle crews a vehicle, learn.</text>
+
+</card>
+
+<card>
+<name>THE CENTIPEDE</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1v8S4tbe161Gn_j0RxOjbow547j3EdDub">HC6</set>
+<color>B</color>
+<color>G</color>
+<manacost>BG</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>0/0</pt>
+<text>THE CENTIPEDE enters with two segment counters for each time you've cast a spell named THE CENTIPEDE this game.
+THE CENTIPEDE gets +1/+1 for each segment it has.
+Remove a segment: Choose one —
+• Surveil 2.
+• THE CENTIPEDE gains a menace counter.
+• THE CENTIPEDE regenerates.</text>
+
+</card>
+
+<card>
+<name>Duolingo Bird // Spanish // Vanish</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Gs4Nr6eeKguUw96YMmKxDOKVTYZi4KQy">HC6</set>
+<color>U</color>
+<color>B</color>
+<color>G</color>
+<manacost>2G</manacost>
+<cmc>8</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text></text>
+
+</card>
+
+<card>
+<name>Hellscube Imperial Appraiser</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ZG3ifppqq21SwpusYut5BzKtHe9lcBCg">HC6</set>
+<color>W</color>
+<manacost>1WW</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Draftpartner with Approved Approved Approved
+Whenever Hellscube Imperial Appraiser enters or attacks, you get {Tk}. Then, you may put a sticker on a permanent you own.
+Officially certified permanents you control get +1/+1 and have ward {1}. (A certified permanent has either an official seal in the art or "Approved" in the name.)</text>
+
+</card>
+
+<card>
+<name>Tondal, The Painting Guy</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1kuChBSVCXq36AQmzoo8CJ1edacdIxf2E">HC6</set>
+<color>U</color>
+<manacost>4U</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>2/5</pt>
+<text>Discoverlink (Discover X, where X is equal to the damage dealt.)
+When Tondal enters the battlefield, put a Serum Visions token second from the top of your library.</text>
+
+</card>
+
+<card>
+<name>Liliana, Breaker of Oaths</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/10_-Ly47edjP3qNd8DC_HsePixqmmU5S_">HC6</set>
+<color>B</color>
+<manacost>1BB</manacost>
+<cmc>3</cmc>
+<type>Planeswalker</type>
+<text>{+1}: Surveil 2. You may cast an enchantment card from your graveyard this turn. Put a finality counter on it.
+{-4}: Sacrifice an enchantment. If you did, replace your signature spell with an instant or sorcery card from any graveyard.
+Liliana can be your commander.
+Draft partner with Oath of Liliana\Choose a signature spell.
+Your signature spell can be any color and adds to Liliana's color identity. Use oathbreaker rules for everything else.</text>
+
+</card>
+
+<card>
+<name>Malcolm, the Middle</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1sKeocMrxC6i0XSJC3mqAy-X3pN7SAS_b">HC6</set>
+<color>U</color>
+<color>R</color>
+<manacost>UR</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Flying, haste
+Whenever you cast your third spell each turn, copy your second spell. You may cast the copy without pay its mana cost.</text>
+
+</card>
+
+<card>
+<name>Wicky P, Vintage Banworthy</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1t_mwaY1ab3f8yY8_xvuggSbQOhFzUzMo">HC6</set>
+<color></color>
+<manacost>4</manacost>
+<cmc>4</cmc>
+<type>Artifact Creature</type> <pt>4/2</pt>
+<text>As you draft Wicky P, reveal it and draft three of its sticker sheets at random.
+Permanent spells you cast have Sticker Multikicker {1}. (You may pay an additional {1} any number of times as you cast this spell. If you do, you get {TK} equal to the number of times it was kicked, then you may put a sticker on it.)
+Stickered creatures are outlaws.</text>
+
+</card>
+
+<card>
+<name>Mr. Domino</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Uc328BtoR9KS0yQivFlemtDzhjna_SE3">HC6</set>
+<color></color>
+<manacost>6</manacost>
+<cmc>6</cmc>
+<type>Artifact Creature</type> <pt>2/3</pt>
+<text>Cascade
+You may cast spells as though they were instead sorceries with cascade and "Draw a card." (They lose all other types and abilities).
+{5}{G}{U}{R}, {T}: You get an emblem with "Whenever you cascade, cascade an additional time." This costs 2 more to activate per activation this game.</text>
+
+</card>
+
+<card>
+<name>Codie, Monster Manual</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1BfbwkYU_gg2stKE1WXkVBfyL3sT5am5d">HC6</set>
+<color></color>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<type>Artifact Creature</type> <pt>1/4</pt>
+<text>You can't cast noncreature spells.
+{4}, {T}: Add {G}{G}{G}{G}{G}. When you cast your next spell this turn, exile cards from the top of your library until you exile a creature card with lesser mana value. Until end of turn, you may cast that card without paying its mana cost. Put each other card exiled this way on the bottom of your library in a random order.</text>
+
+</card>
+
+<card>
+<name>Codie, History Textbook</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1UR_Ts5uq1_1n5aKVwiQecrw3g9yaTj80">HC6</set>
+<color></color>
+<manacost>4</manacost>
+<cmc>4</cmc>
+<type>Artifact Creature</type> <pt>1/4</pt>
+<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after you run out of chapters.)
+Whenever the first instant or sorcery is cast each turn, append a copy of it as Codie's next chapter.
+I — Add {W}{R}.
+II — Proliferate twice.
+... —</text>
+
+</card>
+
+<card>
+<name>Blingo, Assimilated strategist</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1yBaB88eFkYTZcYoTD3ikIWX6VM3RjTDk">HC6</set>
+<color>W</color>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/2</pt>
+<text>Whenever another creature enters the battlefield under your control, move to an adjacent unvisited room. If you can't, put a +1/+1 counter on another target creature you control.
+Start
+Scry 1 - Gain 2 life - Search for basic Plains into hand, then shuffle.
+Exile target card from a graveyard. - Tap target creature - Target creature gains flying until end of turn.
+Untap all creatures you control. - Destroy target enchantment. - Draw a card.</text>
+
+</card>
+
+<card>
+<name>Gyome, Soup Chef</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1GJaFMaoV2I7yJWf3BnfQlEyn_K5mtnNm">HC6</set>
+<color>G</color>
+<manacost>2GG</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>5/3</pt>
+<text>Trample
+At the beginning of your end step, for each keyword ability on a nonfood permanent you control, if that keyword wasn't granted by Gyome, create a Food token with that ability.
+Sacrifice a Food: Target creature gains all abilities of that Food until end of turn.</text>
+
+</card>
+
+<card>
+<name>Marie Kondo</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1_vK5u3KluMlHWUrPREMHKHzsPjWQexcp">HC6</set>
+<color>W</color>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<type>Creature</type> <pt>1/3</pt>
+<text>Discard a card:
+Sacrifice a permanent:</text>
+
+</card>
+
+<card>
+<name>Gitrog, Waste Processor</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Ig5aHjJsA3k4CPxeZj6iL2fZvs_76NU1">HC6</set>
+<color>B</color>
+<color>G</color>
+<manacost>3BG</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>Landfill — Whenever a land enters your graveyard, create a Junk token.
+At the beginning of your end step, put all cards you own in exile into your graveyard.</text>
+
+</card>
+
+<card>
+<name>Evil Mackenzie</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Wm4m3HentiOORY09MWLF2qIhRpm00efo">HC6</set>
+<color>U</color>
+<color>B</color>
+<color>R</color>
+<manacost>UBR</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>{U}{B}{R}, {T}: Double all combat damage that would be delat this turn.</text>
+
+</card>
+
+<card>
+<name>Archduke Franz Ferdinand</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1VPcA860vpnY0XYHknJecBU6gU79UIQsY">HC6</set>
+<color>B</color>
+<manacost>BB</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>When Archduke Franz Ferdinand dies, goad all creatures.</text>
+
+</card>
+
+<card>
+<name>Watch And Learn</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1-8biMnrH4QePoBU4WnDUrTuMaU1ZlNvg">HC6</set>
+<color>U</color>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<type>Instant</type>
+<text>Demonstrate, demonstrate, demonstrate, demonstrate, demonstrate, demonstrate
+Learn.</text>
+
+</card>
+
+<card>
+<name>Counterspell Balanced for EDH</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/151M3IKGc9ZtTK9Rc9V39-_s3xo3V2Se5">HC6</set>
+<color>U</color>
+<manacost>UU</manacost>
+<cmc>2</cmc>
+<type>Instant</type>
+<text>For each player, counter up to one target spell that player controls.</text>
+
+</card>
+
+<card>
+<name>Weezer Signet</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1s5xF_nwMC1uL98c73AEnxlxytwpN47xA">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Artifact</type>
+<text>{1}, {T}: Add {U}{E}{U}</text>
+
+</card>
+
+<card>
+<name>Elder Dragon Highland</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1_XntY2i00JyBwam9HvgJ_-_aJaAkRRrN">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land Creature</type> <pt>*/*</pt>
+<text>Flying
+({T}: Add {R} or {G}.), (If Elder Dragon Highland is your commander, you may play it from the command zone. Pay the commander tax.)
+At the beginning of your upkeep, sacrifice Elder Dragon Highland unless you pay {R/H/G/H}.
+Elder Dragon Highland's Power is equal to the number of mountains you control and its toughness is equal to the number of Forests you control.</text>
+
+</card>
+
+<card>
+<name>The Gruffs</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/18XiRdsNHsBY_Sz4lyidHwAd92cL5q5yB">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Conspiracy</type>
+<text>The Gruffs can be your commanders, except they can't return to the command zone.
+Each Gruff is a legendary Satyr Warrior creature card with "When this creature dies, put a number of +1/+1 counters equal to its power on each commander you control."
+{6}: Return three target commanders from your graveyard to your hand. Activate only once.
+Gruff Red {2}{R} Menance 2/2
+ Greff Green {3}{G} Trample 3/3
+ Gruff White {1}{W} Double Strike 1/1</text>
+
+</card>
+
+<card>
+<name>Ragavan and the Rabies Virus</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1W5fP-dnPR_AuvSVu0Tv31gqu1ZhfLUiJ">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/1</pt>
+<text>Rabid (This creature must attack if able.)
+When Ragavan and the Rabies Virus attacks, put a rabid counter on target creature.
+Ethical Euthanasia — {2}, Sacrifice Ragavan and the Rabies Virus: Create a Treasure token.</text>
+
+</card>
+
+<card>
+<name>Hellscube Rebalancing Team</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Fzs3auAWiV32L2W097lENLMftTjArQ4L">HC6</set>
+<color>U</color>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<type>Creature</type> <pt>1/2</pt>
+<text>Draft Hellscube Rebalancing Team face up. When you do, add Too Weak (x6) to your draft pool.
+You may reveal your forced picks as you draft them and put a name sticker on each. (Reminder cards and basics don't count. Stickers used during the draft last indefinitely.)
+If Hellscube Rebalancing Team is your commander, cards that are too weak have no color identity and mana costs on cards that are too weak are generic.
+As you play a card that's too weak, you get {TK}{TK}{TK}, then you may put a sticker on it.</text>
+
+</card>
+
+<card>
+<name>Ischia Island Levanzo</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1PDpIU_0omsq98-sJYxwucB8QxRgHShUe">HC6</set>
+<color>U</color>
+<manacost>3UUU</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>4/5</pt>
+<text>Tax Evasion {1} (This creature can't be blocked unless defending player pays for each creature blocking it.)
+Grandeur — Discard another card named Island: Return target non-legendary creature to its owner's hand.</text>
+
+</card>
+
+<card>
+<name>Big Brain Moment</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1CMzxD1aYSDZuj121_GeOawKj1grxmTl9">HC6</set>
+<color>U</color>
+<manacost>XXUU</manacost>
+<cmc>2</cmc>
+<type>Sorcery</type>
+<text>Create a token copy of Mind Stone, then increase the amout of mana it adds and the number of cards it draws by X.</text>
+
+</card>
+
+<card>
+<name>Offense Grid</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1OTPv2q6jArLFnHo9kquWMKmcaGQ0x0uK">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Artifact</type>
+<text>During each player's turn, spells played by another player cost {1}.</text>
+
+</card>
+
+<card>
+<name>Open World</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ckrpuyht1o87aIARBS1aOhhMN-CanWwF">HC6</set>
+<color>G</color>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>Whenever a creature becomes tapped, it explores.</text>
+
+</card>
+
+<card>
+<name>Tou-Gou, Sokenzan Weaponsmith</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1n2B8FHMSsHbyvs01Tfrs0-ZrtW3ZmSgT">HC6</set>
+<color>R</color>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Nongun artifacts you control can be recast as guns. (He works with tokens.)
+AKKI-47 {R}
+Artifact — Gun Equipment
+Equipped creature gets +1/+0 and has first strike.
+Equip {2}
+Bold M4 {R}
+Artifact — Gun Equipment
+Equipped creature has "{T}, Unattach Bolt M4: Bolt M4 deals 3 damage to any target. Return Bolt M4 to its owner's hand."
+Equip {3}
+Phyrexigun {R}{R}
+Artifact — Gun Equipment
+Living weapon
+Equipped creature gets +2/+1 and has haste.
+Equip {2}
+Rock 19 {1}
+Artifact — Gun Equipment
+Equipped creature has "{1}, {T}, Sacrifice Rock 19: This creature deals 2 damage to any target."
+Equip {1}</text>
+
+</card>
+
+<card>
+<name>How to Tell a Joke</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1_XnvEjXoVBqHIFNmPu7tKwX94vPo2_zH">HC6</set>
+<color>G</color>
+<manacost>2/G2/G</manacost>
+<cmc>4</cmc>
+<type>Sorcery</type>
+<text>Set Up — Put a +1/+1 counter on target creature you control.
+Punch Line — That creature deals damage equal to its power to target creature you don't control.</text>
+
+</card>
+
+<card>
+<name>HC6: Freaky Pizza</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1-NLbo4VROta9rmkH32rF4PxM6phoKrxY">HC6</set>
+<color></color>
+<manacost>0</manacost>
+<cmc></cmc>
+<type>Artifact Creature</type> <pt>1/1</pt>
+<text>Flying, deathtouch</text>
+
+</card>
+
+<card>
+<name>Dante Alighieri</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/18JBKvI1AImmwE8EnrtnTf6V3IIun4Q8M">HC6</set>
+<color>U</color>
+<color>B</color>
+<manacost>1UB</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Whenever a creature card is put into an opponent's graveyard from anywhere, target creature card in that graveyard ventures into Hell. (It enters the first circle or advances to the next circle. Only one creature per player can be in Hell at a time, unless that player is in Florence.)</text>
+
+</card>
+
+<card>
+<name>Elenda, the Blenda</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1VUq79P9wvTchuD8kLYq3OR0cELFzfD91">HC6</set>
+<color>W</color>
+<color>B</color>
+<manacost>WB</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Lifelink
+Whenever another creature dies, put on Elenda. (They mutate.)</text>
+
+</card>
+
+<card>
+<name>The IRS</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1nPD7YonuL1QCE4WqjunUN1pgJ5iImSAm">HC6</set>
+<color>W</color>
+<manacost>3WW</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>Vigilance
+Not paying taxes is a crime. (A tax is any mana cost imposed by an opponent or additional mana cost. Each tax evaded is a separate crime.)
+Whenever an opponent commits a crime, create a 1/1 white Soldier creature token.</text>
+
+</card>
+
+<card>
+<name>Commandering Presence</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1z3qvmHdxgq6HCm9T-dRWpJAIdFiePpR3">HC6</set>
+<color>W</color>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<type>Enchantment</type>
+<text>Encant creature
+Enchanted creature gets +2/+2 and has first strike.
+Promotion — As long as enchanted creature isn't a commander, it has "Wheneer this creature deals combat damage to a player, it becomes your commander." (That creature starts with a commander tax of {0}.)
+Commandering Presence ca be your commander.</text>
+
+</card>
+
+<card>
+<name>Archimedes</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1h33QO8NlYvvS0to2mv8LkSca4hXnvdGW">HC6</set>
+<color>U</color>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>1/4</pt>
+<text>When Archimedes enters, discover π.</text>
+
+</card>
+
+<card>
+<name>Baral, Chief of Compliments</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1pG10LOXYiuv3cKlXGQDoDf8746QETpL1">HC6</set>
+<color>W</color>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>3/1</pt>
+<text>Spells may cost {1} less to cast.
+Whenever a player casts a spell at a reduced cost, each player draws a card. This ability triggers only once each turn.</text>
+
+</card>
+
+<card>
+<name>Tribuvore</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1fJscr4ncYq8kuVtmdy2anl9DgCtVO7QM">HC6</set>
+<color>W</color>
+<manacost>3WW</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>*/*</pt>
+<text>Vigilance
+Tribuvore's power and toughness are equal to the combined commander tax of all players.</text>
+
+</card>
+
+<card>
+<name>Red Seal</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1YGXAN6U1-nxOlcxiGPTgqcPCkmpoM7l2">HC6</set>
+<color>R</color>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/1</pt>
+<text>When Red Seal enters the battlefield, put a sticker on another target permanent you control with "This permanent's triggered abilities trigger an additional time."</text>
+
+</card>
+
+<card>
+<name>One Eye Jack</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1XhJZY2aES22nzXpYQ73_An1BVIMxx8gk">HC6</set>
+<color>U</color>
+<color>B</color>
+<manacost>4UB</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>0/0</pt>
+<text>As One Eye Jack enters the battlefield, choose a non-commander permanent card in a public zone. turn its abilities, name, power and toughness into stickers, then put them onto One Eye Jack.</text>
+
+</card>
+
+<card>
+<name>HC6: Any Each</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1F53Jk-mgp2KsJEp7DDBlu4U0ezOlTYsf">HC6</set>
+<color>R</color>
+<manacost>3R</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>2/1</pt>
+<text>When any each enters the battlefield, it deals 2 damage to any target.
+When any each dies, it deals 2 damage to target player.
+Overload {R}</text>
+
+</card>
+
+<card>
+<name>HC6: Gas Lights</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1rjX-cdsqpG9sxusLI83yWdLxDpCIG-Km">HC6</set>
+<color>U</color>
+<manacost>5UU</manacost>
+<cmc>7</cmc>
+<type>Enchantment</type>
+<text>You have 5 cards in hand. (This is a state-based action.)</text>
+
+</card>
+
+<card>
+<name>HC6: // Do</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1sxVX8xvsKEthhYB12Yp0zwL9eP0-KvSW">HC6</set>
+<color>U</color>
+<color>B</color>
+<manacost>U/BU/BU/B</manacost>
+<cmc>3</cmc>
+<type>Sorcery</type>
+<text>Aftermath
+Cast target card from a graveyard without paying its costs.</text>
+
+</card>
+
+<card>
+<name>The Tomato Town Massacre // The Chug Jug</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/14ZLF4Jbc_htIV71942epw8gV3MuK3TSq">HC6</set>
+<color>R</color>
+<manacost>2RR</manacost>
+<cmc>4</cmc>
+<type>Battle</type>
+<text>(As a Battle Royal enters, choose a random opponent to protect it. You and others can attack it. When it's defeated, the player who defeated it exiles it, then casts it transformed.)
+When The Tomato Town Massacre enters, choose a creature or planeswalker at random. The Tomato Town Massacre deals 14 damage to each creature and planeswalker not chosen this way.</text>
+
+</card>
+
+<card>
+<name>        Bear</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1m-qwSzkZmYphacJEX3nKEgqFxI20w3Wf">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type></type>
+<text>        Bear be a 4/4 Bear creature.</text>
+
+</card>
+
+<card>
+<name>Gonder</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1TjbUTMEjltbfN2MfwAFCAwSVdhyMjltp">HC6</set>
+<color>B</color>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<type>Sorcery</type>
+<text>Look at the top three cards of opponent's library, then put them back in any order. You may shuffle that library.
+Exile top one cards of that library face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.</text>
+
+</card>
+
+<card>
+<name>Elkster's Trick</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Eid0XrjUJnCqQ-pmDa08uQo-xqV6Tj4J">HC6</set>
+<color>W</color>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<type>Instant</type>
+<text>Bestow target creature onto target creatue.</text>
+
+</card>
+
+<card>
+<name>Knight of the Whiter Orchid</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/15s2171UfUG4ep4nbFHwMTZ1TVkVvn56J">HC6</set>
+<color>W</color>
+<manacost>WWW</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>First strike 
+When Knight of the Whiter Orchid enters the battlefield, choose any number — 
+• If an opponent has more cards in hand than you, draw a card. 
+• If an opponent has more life than you, gain 1 life. 
+• If an opponent controls more creatures than you, create a 1/1 white Solider creature token. 
+• If an opponent controls the highest power creature, put a +1/+1 on a creature you control. 
+• If an opponent controls more flying creatures than you, put a flying counter on a creature you control. 
+• If an opponent has more cards in their graveyard than you, mill a card. 
+• If an opponent controls more artifacts than you, create a Food token. 
+• If an opponent controls more enchantments than you, create a Mask token. 
+• If an opponent controls more planeswalkers than you, create a Tibalt, the Fiend Blooded token. 
+• If an opponent controls more lands than you, search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.</text>
+
+</card>
+
+<card>
+<name>HC6: B.A.M.F</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/15xppg1Y-NRWTYZo8EaE1R0PW1kpbZo4u">HC6</set>
+<color>W</color>
+<color>U</color>
+<manacost>W/U</manacost>
+<cmc>1</cmc>
+<type>Artifact Creature</type> <pt>1/1</pt>
+<text>Flying, scrylink
+You may reveal any card as you scry it. Whenever you reveal an artifact or enchantment card this way, put a +1/+1 counter on Biblically Accurate Magic Furby.</text>
+
+</card>
+
+<card>
+<name>Utopia</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1KP_5b__W9QHvhPl6G-Pn7CaMDHmxgQzC">HC6</set>
+<color>W</color>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<type>Sorcery</type>
+<text>Each creature becomes a copy of Skrelv, Defector mite until end of turn. (Legendary 1/1. Can't block.)</text>
+
+</card>
+
+<card>
+<name>Ice cube down shirt prank - youtube</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ZTz82ewPGWsOPwyY_X4XQiMzBvfCINm2">HC6</set>
+<color>W</color>
+<manacost>H/WW</manacost>
+<cmc>2</cmc>
+<type>Sorcery</type>
+<text>Choose a nonland permanent. Put 17 stun counters and 3 screaming counters (undefined) on that permanent</text>
+
+</card>
+
+<card>
+<name>Microwave of Rath</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1eW-nkvuHqKPN1K_Ry9j4hEPFzEol2Duh">HC6</set>
+<color>R</color>
+<manacost>1RRR</manacost>
+<cmc>4</cmc>
+<type>Artifact</type>
+<text>Whenever Microwave of Rath enters the battlefield and at the beginning of your end step, put a time counter on it.
+If a source would deal damage to a permanet or player, it deals that much damage plus X instead, where X is the number of time counters on Microwave of Rath.</text>
+
+</card>
+
+<card>
+<name>The Glory Hog</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1m8SiASdHgfVJdN_q2weH5vY6fxeIsae6">HC6</set>
+<color>R</color>
+<color>W</color>
+<manacost>2RW</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>3/4</pt>
+<text>Vigilance
+Each player's first main phase each turn is replaced with an additional combat phase. Only The Glory Hog can attack during this phase.
+The Glory Hog can only attack players during your turn or their turn.</text>
+
+</card>
+
+<card>
+<name>HC6: Fish School</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/10t-p6DAdJhqWxI4yPYoTOAfQldPe57Oi">HC6</set>
+<color>U</color>
+<manacost>2UU</manacost>
+<cmc>4</cmc>
+<type>Enchantment</type>
+<text>At the beginning of your upkeep, choose one:
+• Create a 1/1 blue fish creature token.
+• Educate target fish. (If it isn't educated, it becomes educated and draw a card.)</text>
+
+</card>
+
+<card>
+<name>Squire</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1dNoFPU7W159ezrZpg69MqWzq-062CIPN">HC6</set>
+<color>W</color>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/2</pt>
+<text>Whenever Squire enters or attacks, squy 3.</text>
+
+</card>
+
+<card>
+<name>Bull in a China Shop</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1k4CwilxMfQxp5J2daRN5L5skaUWwseci">HC6</set>
+<color>R</color>
+<manacost>3R</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>5/5</pt>
+<text>Trample, haste
+Trample over artifacts
+Bull in a China Shop attacks each combat if able and attacks noncreature artifacts your opponents control if able. (Artifacts being attacked can be blocked for as though they were planeswalkers or battles. If the artifact doesn't have toughness, its toguhness is equal to its mana value.)</text>
+
+</card>
+
+<card>
+<name>mangled ahi</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1TuL6T-YAQx6eCgdtMYVH2G6dDR4cpyaf">HC6</set>
+<color>G</color>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/1</pt>
+<text>When mangled ahi dies, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+{2}, Sacrifice mangled ahi: Draw a card.</text>
+
+</card>
+
+<card>
+<name>Austin Prowess</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1MaAbmD6Ohnj41k6Fp1TTFaMv84n5HSbj">HC6</set>
+<color>U</color>
+<manacost>3U</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>2/4</pt>
+<text>Creatures you control have their base Powers and Prowess switched. (If a creature's power was 2, it is now 0 and the creature has "Promess, prowess".)</text>
+
+</card>
+
+<card>
+<name>Aladdin Charm</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1MEsI7JdlFZnrSu2aRrG43Biv7paKWRwC">HC6</set>
+<color>R</color>
+<manacost>2RR</manacost>
+<cmc>4</cmc>
+<type>Instant</type>
+<text>Choose only one —
+• Gain control of target artifact.
+•Draw X cards but choose only one to put into your hand. Shuffle the leftover cards and put them at the bottom of your library. X is 4.
+•Aladdin's Charm deals 4 damage to target.</text>
+
+</card>
+
+<card>
+<name>Fiish</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1aVA2569O49cshpEArbyGdZklVXzAB0Ej">HC6</set>
+<color>U</color>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<type>Creature</type> <pt>2/1</pt>
+<text>When Fiish enters, until end of turn, whenever a player taps an Island for mana, that player adds an additional Blue.</text>
+
+</card>
+
+<card>
+<name>HC6: goblin skeleton</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1vylsk9062VFS0hsWc5yxVBvqlzACbiZj">HC6</set>
+<color>B</color>
+<color>R</color>
+<manacost>1B/R</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Menace
+Goblin Skeleton can't block</text>
+
+</card>
+
+<card>
+<name>Evil Cultist</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1VHZTe8BPGFt6BEq-R66s0VKkpKZtgPeK">HC6</set>
+<color>B</color>
+<manacost>2BBB</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>1/4</pt>
+<text>Deathtouch
+When Evil Cultist enters, plot a Murder and a Dark Ritual.</text>
+
+</card>
+
+<card>
+<name>The Squadron Hawk</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1P3hE6Ik8caj3nd6_WNEg68dvKO63FxSl">HC6</set>
+<color>W</color>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Flying
+Partner and Draftpartner with three copies of The Squadron Hawk. The legend rule doesn't apply to them. (When this enters, target player may put the copies into their harnd from their library, the shuffle.)
+You may have five commanders if one has partner and four are copies of this.</text>
+
+</card>
+
+<card>
+<name>Command Phyrexian Tower</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1s2taxl9IxYjV-Y0QlP0KE3MkT1GurdYx">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Add {C}.
+{T}, Sacrifice a creature: Add two mana of any one color in your commander's color identity.</text>
+
+</card>
+
+<card>
+<name>Wan</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/14_xT55LE30eFf2mht_lYg9J3VfQkIq6a">HC6</set>
+<color>G</color>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Mentor, Training
++1/+1 counters on other creatures you control give +Wan/+Wan instead. (They add Wan's P/T.)</text>
+
+</card>
+
+<card>
+<name>Muscle Roller Formation</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ZGCKmRuPJe3C_0g04V-R0_V70voFeTtd">HC6</set>
+<color>R</color>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<type>Enchantment</type>
+<text>Creatures you control are Vehicles in addition to their other types and have Crew 1.
+Crewed Vehicles you control have +2/+2, haste, and first strike.</text>
+
+</card>
+
+<card>
+<name>Draw the Out // Be Consistent // Draw the Out</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/13VQkm6dV_2W64aL3UM_REq7iMI9ji5pF">HC6</set>
+<color>U</color>
+<manacost>1U</manacost>
+<cmc>8</cmc>
+<type>Instant</type>
+<text>Draw a card.\yeah (You may cast any amount of halves of this card from your hand. Or something.)</text>
+
+</card>
+
+<card>
+<name>Exceptionally Heavy Bird</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1C6jauIGjZDXa-WMszk247DOtEAUcyin9">HC6</set>
+<color>R</color>
+<color>W</color>
+<manacost>3R/WR/W</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>5/6</pt>
+<text>Flying
+If Exceptionally Heavy Bird would leave the battlefield, it becomes a Star of Extinction. (For the rest of the game. Put it on the stack.)</text>
+
+</card>
+
+<card>
+<name>Kindred Flames</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1_zh5IYA3vwP881A4iGGL0MLvQLXY0w4K">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<type>Sorcery</type>
+<text>Do man — Kindred Flames deals X damage to target creature or player, where X is the number of creature types among non-Brushwaggs you control.</text>
+
+</card>
+
+<card>
+<name>Whats in Grenzos Bottom</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1cJzWkJvuewAYW_C1I7q1zQ6stEVM5RpT">HC6</set>
+<color>B</color>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<type>Enchantment</type>
+<text>At the beginning of your end step, name a color, a card type, and a mana value. Then mill a card from the bottom. Do the following for each of the characteristics you got right —
+Color | Create a Treasure token.
+Card Type | Put a +1/+1 counter on a creature you control.
+Mana Value | Put that card into your hand.</text>
+
+</card>
+
+<card>
+<name>Festivities</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1mcBTnX-q0ZOwsZDVI2D5heGyvWoUHf-h">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>Celebration — At the begnning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, Festivities deals 1 damage to each opponent and each creature and planeswalker they control.</text>
+
+</card>
+
+<card>
+<name>Where joke</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1CfLFpRaBswW0Id44mt-mZBjAeNmN6sC_">HC6</set>
+<color>B</color>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<type>Instant</type>
+<text>Destroy target creature if it isn't funny. (No creatures are funny.)</text>
+
+</card>
+
+<card>
+<name>Guff, Group Project Partner</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1RARQEAx836gm5ruzfoI0MCfBWLtjoeYI">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>All commander damage dealt is also dealt by Guff. (He doesn't do additional damage. He just takees credit for it.)
+Whenever Guff deals damage to a player, you may goad target creature that player controls.
+Partner</text>
+
+</card>
+
+<card>
+<name>Flare Halls</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Fh0prxD1oaEHOQHIOJm7ibsut4LBdxRx">HC6</set>
+<color>U</color>
+<manacost>3UU</manacost>
+<cmc>5</cmc>
+<type>Enchantment</type>
+<text>Rather than pay the mana cost of a spell, its controller may sacrifice a nontoken creature that shares a color with that spell.</text>
+
+</card>
+
+<card>
+<name>HC6: Layer Understander</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Tk4eREbPQ9Zsnh13AMKECFwyi2yGC_Jl">HC6</set>
+<color>W</color>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>1/1 creatures you control get +1/+1.</text>
+
+</card>
+
+<card>
+<name>Gold Sable</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Hwys8Q7E10-sZo8bfwSAf80QszPb8iVv">HC6</set>
+<color></color>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<type>Artifact Creature</type> <pt>6/3</pt>
+<text>Gold Sable is any two colors of your choice anywhere.</text>
+
+</card>
+
+<card>
+<name>Obelix of Jund</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1j0dC7X_oGp_Fr0S4kDkRcKrpSWa94SjJ">HC6</set>
+<color></color>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>5/5</pt>
+<text>Vigilance 
+ {T}: Add {B}, {R}, or {G} to your mana pool. 
+ I II III IV — Target opponent creates a 1/1 white Roman Soldier creature token with "Trampled by Gauls." 
+ (Sacrifice after IV.)</text>
+
+</card>
+
+<card>
+<name>That One Stock American Cartoon Episode</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1xhKftnassl9QqSn0zvvG0nOFeBvoCrB_">HC6</set>
+<color>G</color>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>Enchant Creature
+At the beginning of your upkeep, venture into enchanted creature. (Enter the first room or advance to the next room.)
+When you exit enchanted creature, sacrifice That One Stock American Cartoon Episode.</text>
+
+</card>
+
+<card>
+<name>Urza's Big Bean Burrito</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1M9_F84XKoHm0tlgBXnYpF_2dmpXHtDNg">HC6</set>
+<color></color>
+<manacost>0</manacost>
+<cmc>0</cmc>
+<type>Artifact</type>
+<text>{2}, {T}, Sacrifice Urza's Big Bean Burrito: Gain 3 life for each artifact you control. Conjure a copy of Urza's Ruinous Blast into your hand. (It's a legendary sorcery with mana cost {4}{W} that reads: "Exile all nonland permanents that aren't legendary.")</text>
+
+</card>
+
+<card>
+<name>Dark Confidence</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1BBopXd3fZcB6A-nHw5wrtb-oMTvceu9l">HC6</set>
+<color>B</color>
+<manacost>XB</manacost>
+<cmc>1</cmc>
+<type>Sorcery</type>
+<text>Target player reveales the top X cards of their library, loses life equal to their total mana value, and puts them into their hand.</text>
+
+</card>
+
+<card>
+<name>Fahrenheit 451</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1SgtOOtPzjKx5XESz203WHUVCBHkAq4FX">HC6</set>
+<color>R</color>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<type>Sorcery</type>
+<text>Until end of turn, nonland cards you own have Book Burning as an adventure. ({1}{R} sorcery with "Any player may have Book Burning deal 6 damage to them. If no one does, target player mills six cards." You may cast the spell later from exile.)
+Put a Past in Flames token card into your hand.</text>
+
+</card>
+
+<card>
+<name>Rule Zero</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1KEbFDhRNA9TXA0UyuDF-dRXDCkW428dU">HC6</set>
+<color>U</color>
+<manacost>3UUU</manacost>
+<cmc>6</cmc>
+<type>Instant</type>
+<text>Rule 0 — You may reveal this card from your draft pool. If you do, you kay have any creature in your draft pool as a commander except its a 0/0. 
+ All printed numbers are 0 until end of turn. (This doesn't effect number words.)</text>
+
+</card>
+
+<card>
+<name>Advanced Search</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1epilySdwOi8DUA_A1nbnAUMCqTKDGg-4">HC6</set>
+<color>B</color>
+<manacost>3B</manacost>
+<cmc>4</cmc>
+<type>Sorcery</type>
+<text>While buildingy our deck, fill in up to three of the boxes on this card. You cannot change the drop-down lists this way. This spell costs {1} less to cast for each box filled this way.
+Search your library for a Type, Colors, and Mana Value card, reveal it, put it into yoru hand, then shuffle.</text>
+
+</card>
+
+<card>
+<name>Run Away Together</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1uelUJuPZE7DuAnP8w5pzME9L8FqgVp23">HC6</set>
+<color>B</color>
+<manacost>1BB</manacost>
+<cmc>3</cmc>
+<type>Instant</type>
+<text>Choose two target creatures controlled by different players. Destroy them.</text>
+
+</card>
+
+<card>
+<name>One with That Thing</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1oel9D7J8NXysfwRz88jGEkOssS_J-iSL">HC6</set>
+<color>B</color>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<type>Instant</type>
+<text>Discard your hand. Put target nonland permanent into your hand.</text>
+
+</card>
+
+<card>
+<name>Glock Hydra</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1e3pUkBbCCVbvRgPuQIALJ8BBvU6mT2C2">HC6</set>
+<color>R</color>
+<manacost>XRR</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>0/0</pt>
+<text>Put X +1/+1 counters (bullets) on Hydra. Bullets may be fired to deal 1 damage. During controller's upkeep, bullets may be reloaded for {R}{R} apiece.</text>
+
+</card>
+
+<card>
+<name>Handle Without Care</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1qYKdmGplRkmH4lfASyrEArDfYCUE_Yk8">HC6</set>
+<color>W</color>
+<color>U</color>
+<manacost>1W/U</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>When Handle Without Care enters the battlefield, draw a card.
+Tapped creatures you control can be tapped a second time.
+At the beginning of your end step, sacrifice all double-tcapped creatures you control.</text>
+
+</card>
+
+<card>
+<name>Fire at the Effigy Factory</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1foO3qR0IkeP1_dt2RcJMuNYicWQAE0W7">HC6</set>
+<color>R</color>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<type>Instant</type>
+<text>Creatures you control have "When Blazing Effigy dies, it deals X damage to target creature, where X is 3 plus the amount of damage dealt to Blazing Effigy this turn by other sources named Blazing Effigy." until the end of turn.
+All nonlegendary creatures are named Blazing Effigy in addition to their other names until the end of turn.</text>
+
+</card>
+
+<card>
+<name>Chancellor of the angle</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1UHly22G8L2V500aJAxFqVM4KpVTYjwnC">HC6</set>
+<color>G</color>
+<manacost>4GGG</manacost>
+<cmc>7</cmc>
+<type>Creature</type> <pt>6/7</pt>
+<text>You may reveal this card from your opening hand. If you do, at the beginning of your first main phase, add {T} to your mana pool.
+Vigilance, reach</text>
+
+</card>
+
+<card>
+<name>Yeast Within</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/15KLXusDnQSP1Rn5pJ6gEwvraGCSSBa4F">HC6</set>
+<color>W</color>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<type>Instant</type>
+<text>Destroy target permanent. Its controller creates a food token.</text>
+
+</card>
+
+<card>
+<name>For bid</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1HDbJWKB_vkN1oXy1T1hsump5FFmXBfue">HC6</set>
+<color>W</color>
+<color>B</color>
+<manacost>W/BW/B</manacost>
+<cmc>2</cmc>
+<type>Instant</type>
+<text>Buyback— Discard two cards.
+Auction target spell. (You start with a number bid. Clockwise, players may top it. The player with the final highest bid loses that much life, gains control of that spell, and may change its targets. If that wasn't you, gain that much life.)</text>
+
+</card>
+
+<card>
+<name>Animate Player</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1MyWilH1nNwUI43kod9jrh9gE2F3I7GIf">HC6</set>
+<color>B</color>
+<manacost>3BB</manacost>
+<cmc>5</cmc>
+<type>Enchantment</type>
+<text>Enchant Dead Player 
+ When Animate Player enters the battlefield, return enchanted player to the battlefield under your control as their commanders combined. 
+ Whenever you draw one or more cards, draw that many card from enchanted player's library as well. 
+ Enchanted player gets -1/-0</text>
+
+</card>
+
+<card>
+<name>Disco Inferno</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1tPIqKoATd3tdFToI4_W-DGw1NzvhbkKM">HC6</set>
+<color>R</color>
+<manacost>5RR</manacost>
+<cmc>7</cmc>
+<type>Instant</type>
+<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Disco Inferno deals 6 damage to each creature and player.</text>
+
+</card>
+
+<card>
+<name>Benalish Mentor</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1hkFDFgUe-3PLZlRqIi7R3NFkRB__Rs6F">HC6</set>
+<color>W</color>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Banding, myriad
+Creatures banded with Benalish Mentor have myriads with other. (The tokens band with Benalish Mentor's tokens.)</text>
+
+</card>
+
+<card>
+<name>The Duck Song</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1tHBZ-D_Qpc5_rIfk370CBIXpHEhxlvEJ">HC6</set>
+<color>W</color>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<type>Enchantment</type>
+<text>(As this saga enters and after your draw step, add a lore counter.)
+I — Create a Food token.
+II — Exile The Duck Song, then return it to the battlefield.</text>
+
+</card>
+
+<card>
+<name>Scooze Me</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1O9HehEWmLaTpt_t4dMIwpWRPTsb07hi2">HC6</set>
+<color>G</color>
+<manacost>G</manacost>
+<cmc>1</cmc>
+<type>Sorcery</type>
+<text>Put a Scavenging Oooze text sticker and a Sticky sticker on target creature you own. (That creature has "{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life." and counters and objects remain on that card as it moves to any zone other than a player's hand or library.)</text>
+
+</card>
+
+<card>
+<name>Scrabbleing Claws</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1p718QkLx6m0e2_i30550BIbfwiCeogrt">HC6</set>
+<color></color>
+<manacost>1</manacost>
+<cmc>1</cmc>
+<type>Artifact</type>
+<text>{T}: Target player exiles a card from their graveyard. Add the first letter of that card's name to your rack.
+{1}, Sacrifice Scabbling Claws, Spell an X letter word using letterns on your rack: Draw X cards.</text>
+
+</card>
+
+<card>
+<name>Dinosaurs Never Went to Church</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1IBSvkWob68iPG26KmwgDNdDfikHhz-eH">HC6</set>
+<color>W</color>
+<manacost>3WW</manacost>
+<cmc>5</cmc>
+<type>Sorcery</type>
+<text>Destroy all creatures. If your devotion to white is 7 or greater, instead destroy all creatures you don't control.</text>
+
+</card>
+
+<card>
+<name>Restoration Twin</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1uQAY6eo5DzFAVEIEQXvJbQy3v1KLnBC1">HC6</set>
+<color>W</color>
+<manacost>5W</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>3/4</pt>
+<text>Flash, devoid (This card has no color.)
+When Restoration Twin enters the battlefield, you may exile target non-Eldrazi creature you control, then return that card to the battlefield under your control.
+When you cast this spell, create a 3/4 colorless Eldrazi creature token with "When this enters, you may exile target non-Eldrazi creature you control, then return that card to the battlefield under your control."</text>
+
+</card>
+
+<card>
+<name>HC6: Dreadthallid</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1d0hlRIl6ll6w7yh74sYySYmsHc29gMvD">HC6</set>
+<color>B</color>
+<color>G</color>
+<manacost>B/G</manacost>
+<cmc>1</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>At the biginning of your upkeep, put a spore counter on Dreadthallid.
+Remove four spore counters from Dreadthallid: Fungmass 2. (Put 2 +1/+1 counters on an army you controll. If you don't control one, create a 0/0 green Saproling Army creature token first.)
+Sacrifice a creature: Put a spore counter on Dreadthallid.</text>
+
+</card>
+
+<card>
+<name>Error of the Peaks</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/18MHqFqqdM2w7YDhcZGfKL24yWJkS37n_">HC6</set>
+<color>R</color>
+<manacost>3RR</manacost>
+<cmc>5</cmc>
+<type>Dragon Creature</type> <pt>5/5</pt>
+<text>Coding Error — Creatures you control and creature cards you own ar dragons instead of their other subtypes.
+Flying
+Error in RAM — When you cast your first dragon spell on each of your turns, exile it. When you do, discover 2,147,483,648.</text>
+
+</card>
+
+<card>
+<name>Loot That Body</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1-0pK9txZh0aJysrSaxORF36RTMjIX1RK">HC6</set>
+<color>B</color>
+<color>G</color>
+<manacost>BB</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>Whenever a nontoken permanent or player dies, you may discard a card. If you do, choose one or more from the loot table to gain. Each choice beyond the first costs {1}.
+Loot Table
+Creature | Food and Blood token
+* | 1/1 Decayed Skeleton with its modifications
+Land | Tapped Wastes
+Artifact | Rock
+Enchantment | Shard
+Planeswalker | Use one of its plus abilities
+Legend | Two Treasure
+Player | Copy a permanent they control. Can pick more than once.
+* | Adopt their commanders as your own. They're generic.
+* | Add their library and hand to yours and shuffle. They're generic.
+Whatever, just loot | Draw a Card</text>
+
+</card>
+
+<card>
+<name>thallid campground</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1nwmE6y4F3Ovfll0UrjvWZG27Tjv6Ag1m">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Add {G}. Put a smore counter on Thallid Campground.
+{G}, {T}, Remove a smore counter from Thallid Campground: Create a Food token.
+{1}{G}, {T}, Remove three smore counters from Thallid Campground: Create a 1/1 green Saproling creature token.</text>
+
+</card>
+
+<card>
+<name>Phyrexian Arena VIP Access</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1yexds1VT1782cHxqaHWtiIXFm1BgTUqO">HC6</set>
+<color>B</color>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<type>Enchantment</type>
+<text>Enchant creature
+Enchanted creature gets +1/+1 and has "Whenever this creature attacks, you draw a card and you lose 1 life."</text>
+
+</card>
+
+<card>
+<name>The Prismatic Lensite // The Prismatic Lensaurus</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1bxbc_QjnDA70KUQL1vNiokTl9WYmXg85">HC6</set>
+<color></color>
+<manacost>0</manacost>
+<cmc></cmc>
+<type>Artifact Creature</type> <pt>1/1</pt>
+<text>If The Prismatic Lensite is yoru commander, choose a color before the game begins. The Prismatic Lensite is the chosen color.
+{1}, {T}: Add one mana of any color.</text>
+
+</card>
+
+<card>
+<name>The First Brick</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Cs2lQItCGBE1wzD9etH0TI2xLMPLie_i">HC6</set>
+<color>R</color>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<type>Artifact</type>
+<text>Equipped creature gets +X/+X, where X is your total commander tax.
+Equip {2}
+Equip commander {0}
+The First Brick can be your commander.</text>
+
+</card>
+
+<card>
+<name>Auraman</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ug0z4Cdp4Sv2OpI3zKPqVh9yA2dCCiEG">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Before the game begins, you may reveal a monocolored Aura card from your sideboard. Auraman becomes its color perpetually.
+Once each turn, if Auraman is not enchanted, you may cast a copy of the revealed card targeting Auraman.</text>
+
+</card>
+
+<card>
+<name>Beedevil</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1wvEp2Kn9jJTN8_KsBUF8XvAJHhaNz87m">HC6</set>
+<color>B</color>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Flying, deathtouch
+When Beedevil deals combat damage to a player, you may sacrifice it. If you do, destroy target artifact, creature, or planeswalker.</text>
+
+</card>
+
+<card>
+<name>Standard Set Red Mythic</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1hlHZxVQfNHT6sdm3XJvSx5Iw5ogTOWou">HC6</set>
+<color>R</color>
+<manacost>7RR</manacost>
+<cmc>9</cmc>
+<type>Sorcery</type>
+<text>Council's dilemma — Starting with you, each player votes for burn or impulse. For each burn vote, plot a copy of Explosive Singularity (10 damage to any target). For each impulse vote, plot a copy of Apex of Power (Exile the top seve cards of your library. Until end of turn, you may cast spells from among them. If this spell was cast from your hand, add ten mana of any one color.)</text>
+
+</card>
+
+<card>
+<name>The Splash Zone</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1aR_xKOLpG6evhDcze5kC7BMNEV-HFlpI">HC6</set>
+<color></color>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<type>Zone</type>
+<text>You may reveal The Splash Zone from your starting deck. If you do, place a card from your draft pool into the splash zone. 
+ You may play cards from the splash zone. 
+ {T}: Add one mana of any color not in your commander's color identity. 
+ (This spell resolves as a zone. It isn't a permanent. It doesn't exist as a zone until it's played.)</text>
+
+</card>
+
+<card>
+<name>commander politicer</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1uDM5WLci2B0nuF98BGvUag4WxTzj7Ruu">HC6</set>
+<color>W</color>
+<manacost>3W</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>2/5</pt>
+<text>Myriad, vigilance
+Whnever Commander Politicer deals combat damage to a player, you and that player either make a treasure, draw a card, or put a Royal role</text>
+
+</card>
+
+<card>
+<name>20.</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ioIVTPPj8jYjNbly_L25dtkFVFUqk_3Z">HC6</set>
+<color>R</color>
+<manacost>2RR</manacost>
+<cmc>4</cmc>
+<type>Sorcery</type>
+<text>Roll a d20.
+Thunderwave deals 20 damage to each creature.</text>
+
+</card>
+
+<card>
+<name>AITA</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1E5bP-avmfl2vu83aMBGLMWL6QTxjHPFN">HC6</set>
+<color>W</color>
+<color>B</color>
+<manacost>1W/B</manacost>
+<cmc>2</cmc>
+<type>Sorcery</type>
+<text>Destroy target nonland permanent.
+Then each opponent votes.
+If you are unanimously the asshole, sacrifice a permanent. Otherwise, destroy another nonland permanent.</text>
+
+</card>
+
+<card>
+<name>Maelstrom Wanderer World Tour</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1iRA6YVzTOpHUHOVzDIXHb1ufIQK1Yjw4">HC6</set>
+<color>G</color>
+<manacost>3G</manacost>
+<cmc>4</cmc>
+<type>Sorcery</type>
+<text>Landcascade, landcascade (When you cast this spell, exile cards from the top of your library until you exile a land card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. Then do it again.)</text>
+
+</card>
+
+<card>
+<name>Power Word Testicular Torsion</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Wr5mR_A7bGBtTYgny3sewRO4Rd5zybnd">HC6</set>
+<color>B</color>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<type>Instant</type>
+<text>Destroy target non-Construct, non-Fungus, non-Skeleton, non-Bertoncini creature.</text>
+
+</card>
+
+<card>
+<name>Swarm</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1_23L3Lq7GeKEYuk6QdH9wF0YQP7yi5wR">HC6</set>
+<color>R</color>
+<color>U</color>
+<manacost>RU/R</manacost>
+<cmc>2</cmc>
+<type>Enchantment Creature</type> <pt>1/1</pt>
+<text>Flying, haste
+Whenever you cast an instant or sorcery spell, create a 1/1 blue and red Insect creature token with flying and haste.</text>
+
+</card>
+
+<card>
+<name>Treasure Money</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1eHWJ68Nzyi-E6D68J-ztfHo4urxBUAuD">HC6</set>
+<color>B</color>
+<manacost>4BB</manacost>
+<cmc>6</cmc>
+<type>Sorcery</type>
+<text>Destory all creatures. For each nontoken creature destroyed this way, you create a tapped Blood token.</text>
+
+</card>
+
+<card>
+<name>Siege Rhino EX</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1I-loqqfVir9VrpZsYCiB6Et7Xx1h_vcv">HC6</set>
+<color>W</color>
+<color>B</color>
+<color>G</color>
+<manacost>2WBG</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>6/7</pt>
+<text>Ward - This card's controller creates a Siege Rhino creature token under their control.
+Menace, trample
+When Siege Rhino EX enters the battlefield, each opponent loses 6 life and you gain 6 life.
+Creature-EX rule — If an EX creature leaves the battlefield, each opponent draws 2 cards.</text>
+
+</card>
+
+<card>
+<name>Goblin Banker</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1bExT_byxqjODdCm_y-hvwBfvy-FB_FaJ">HC6</set>
+<color>R</color>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<type>Creature</type> <pt>1/2</pt>
+<text>Whenever a player pays commander tax, create a treasure token.</text>
+
+</card>
+
+<card>
+<name>Barbed City</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1yUNTAWOVJeBeDQ3KgYZELU0my-96W_H6">HC6</set>
+<color>R</color>
+<manacost>3R</manacost>
+<cmc>4</cmc>
+<type>Enchantment</type>
+<text>Lands are City of Brass. (The have "Whenever this land becomses tapped, it deals1 damage to you." and "{T}: Add one mana of any color".)</text>
+
+</card>
+
+<card>
+<name>six/six</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/13Jf7atPrP2SMY2uWxxUxdBMSewALQQW7">HC6</set>
+<color>G</color>
+<manacost>22GG</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>6/6</pt>
+<text>Trample
+Whenever a creature you control with the number Six on it attacks, mill three cards. (6 and Six both count.) You may put a land card from among them into your hand.
+As long as it's your turn, creature permanent cards in your graveyard have "Encore {4}{G}{G}".</text>
+
+</card>
+
+<card>
+<name>Woah Lions, Out of A Job</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/18cC4qUcWwHstXzq-CU-_jA3cCNwL27kX">HC6</set>
+<color></color>
+<manacost>1</manacost>
+<cmc>1</cmc>
+<type>Creature</type> <pt>3/1</pt>
+<text>You may only cast this spell using "mana of any color".
+Cycling {U/R}</text>
+
+</card>
+
+<card>
+<name>Key Your Car</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1XwhH1s--qfeWc0cz-WBbEeSL9gDr4GiX">HC6</set>
+<color>R</color>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<type>Instant</type>
+<text>Choose one. X is the number of unique keywords on permanents you control —
+• Key Your Car deals X damage to target creature.
+• Destroy target artifact with mana value X or less.</text>
+
+</card>
+
+<card>
+<name>Pin Your Overdue Parking on Someone</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1xZ08w8j6GGRGwBRtM1u_jlJqDP2fcvyc">HC6</set>
+<color>R</color>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<type>Sorcery</type>
+<text>Choose any target. You get {TK}{TK}{TK}, then you may pay any amonut of {TK}. You deal that much damage to that player or permanent.</text>
+
+</card>
+
+<card>
+<name>Shoot at the Sun</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1TRG2AEr0eRPQnhmO96kA0PgWahUG9yNj">HC6</set>
+<color>B</color>
+<manacost>1BB</manacost>
+<cmc>3</cmc>
+<type>Instant</type>
+<text>Destroy target creature. It becomes night.
+Whenever it becomes day while Shoot at the Sun is in your graveyard, you may pay {1}{B}. When you do, destroy target creature and the sun. (It becomes night forever.)</text>
+
+</card>
+
+<card>
+<name>Elder Highland Wurm</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1hxiPoLyeTQYK8uJLIyL5RX8pzLbu1MOD">HC6</set>
+<color>W</color>
+<manacost>1WWW</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>5/5</pt>
+<text>Trample
+All generals now require an upkeep cost equal to one mana of each color in their color identity in addition to any other upkeep costs they may have. If the upkeep cost for a general is not paid, the general is buried.</text>
+
+</card>
+
+<card>
+<name>Big Ass Fucking Myr Enforcer</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1DpviT6yWq8QFhfcrIWoFE3Zw9iDeu88A">HC6</set>
+<color></color>
+<manacost>15</manacost>
+<cmc>15</cmc>
+<type>Artifact Creature</type> <pt>17/17</pt>
+<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)</text>
+
+</card>
+
+<card>
+<name>Mom Said To Share</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/17ScK6XFk_NjGMcAzNs-8vRfaN8xK4HXi">HC6</set>
+<color>U</color>
+<manacost>3UU</manacost>
+<cmc>5</cmc>
+<type>Instant</type>
+<text>Next player's turn is also your turn.</text>
+
+</card>
+
+<card>
+<name>Minted to the Blockchain</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/12mSsyO0X3QmOxHlnVP19V82_eYmsdtqT">HC6</set>
+<color>U</color>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<type>Enchantment</type>
+<text>Enchant nonland permanent
+Enchanted permanent is a Junk token. (It becomes an artifact with "{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery." and loses all other abilities and types.)</text>
+
+</card>
+<card>
+<name>Cophin, Dead Again</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/18YNvLN5vkKFMxjy27rZgC5SsjexjuEbD">HC6</set>
+<color>B</color>
+<manacost>1BB</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>When Cophin dies, note the number of times they died this game. Each opponent loses that much life.
+If you haven't cast a spell named Cophin, Dead Again this turn, you may cast this card from your graveyard or from exile.</text>
+
+</card>
+
+<card>
+<name>Elmer's {U}</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1o5lGF9x3Gd9pLKf4SK9BWhcOO9_rIqvE">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>During deckbuliding, choose a non-Commander card in your deck. Elmer's {U} becomes its back half. (It's now a modal DFC.)
+Elmer's {U} enters the battlefield tapped.
+{T}: Add {U}.</text>
+
+</card>
+
+<card>
+<name>Omnath, Locust of Mana</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1uzKjlfLZSf3DCCcLGddvRCR7IjraG7TC">HC6</set>
+<color>G</color>
+<manacost>2G2G</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>If you would lose unspent mana, that mana becomes 1/1 blue and red Insect creature tokens with flying and haste.
+Omnath, Locust of Mana gets +1/+1 for each other Insect you have.</text>
+
+</card>
+
+<card>
+<name>Shock Value</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/145I0Aexcx7tl-0K6WcNI9u11i6Ck6eSz">HC6</set>
+<color>R</color>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<type>Instant</type>
+<text>Shock Value deals 2 damage to any target. Counter each triggered or activated ability of a permanent damaged this way.</text>
+
+</card>
+
+<card>
+<name>Unga</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Isbhxvht2YDt_emg95c8MAFX_TvPq-Ci">HC6</set>
+<color>W</color>
+<color>G</color>
+<manacost>1G/W</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Keyword abilities are trample.</text>
+
+</card>
+
+<card>
+<name>Jeska's Would</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1jSY1RxwPnvu7bVKeEskewQacqf4069k7">HC6</set>
+<color>R</color>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<type>Sorcery</type>
+<text>Choose one. If you control a commander as you cast this spell, you may choose both instead.
+• Create a 2/2 white Woman creature token with haste. It's a Human in addition to its other types.
+• Gain control of target non-Human creature until end of turn. Untap it. It gains haste until end of turn.</text>
+
+</card>
+
+<card>
+<name>Waffle House</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Xb9fUlCMgG7E78epksH60fre5p4_stF-">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>Indestructible
+Waffle Hous enters the battlefield tapped. As it does, choose a color other than white.
+{T}: Add {W} or the chosen color.
+{T}: Create a Food token. Activate only if a creature has fought this turn.</text>
+
+</card>
+
+<card>
+<name>Errata, the Silencer</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1fTy6STNUuegZidc6ZUViFtzROTjNotyC">HC6</set>
+<color>U</color>
+<color>B</color>
+<manacost>UB</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/3</pt>
+<text>When Errata, the Silencer enters the battlefield, remove target nonmana ability from target noncommander card perpetually.
+{W}, Sacrifice Errata, the Silencer: Target player cannot cast spells this turn.</text>
+
+</card>
+
+<card>
+<name>magus speech bubble</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1wMbA_s0vdHYKYjSWKrd_qICIJYJ2NP4W">HC6</set>
+<color>U</color>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<type>Instant</type>
+<text>Counter target instant or sorcery spell. Note its name as cardname and its text as cardtext.
+Create a blue 1/1 Human Wizard creature token called "magus of the cardname" with "{3}, T: cardtext"</text>
+
+</card>
+
+<card>
+<name>Does Life For A Drunk Driving Incident</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ZGqT1BbeRsR_gkl-npayVNtlF9SWi1jA">HC6</set>
+<color>B</color>
+<manacost>3B</manacost>
+<cmc>4</cmc>
+<type>Enchantment</type>
+<text>Lore (A commander with Partner can have one Lore as their second commander.)
+When Does Life For A Drunk Driving Incident enters the battlefield, destory up to 4 target creatures.
+Commander creatures you own cannot attack or block.</text>
+
+</card>
+
+<card>
+<name>Honk Honk</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Cc3GBjVHNKzZObmAAGytbf8xdqTK776h">HC6</set>
+<color>R</color>
+<manacost>RR</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Draft Partner with Beep-Beep Whiz Bang
+At the beginning of combat on your turn, you gain {TK}{TK}, then you may put sticker on a permanent you own.
+Permanents with Power Toughness stickers have Crew 1.</text>
+
+</card>
+
+<card>
+<name>HC6: Llanowar // Elves</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1BgTrBhynHZW5EPsD-gZIA1m8mJS6Ex6H">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Add {G}.
+{0}: Transform Llanowar. Activate only as a sorcery.</text>
+
+</card>
+
+<card>
+<name>Blood Tomb</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/12HDOgTtV55JYRzWSSYMknsgS4jvDnh-C">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Add {C}{C}. A nonbasic land you control becomes a basic Mountain.</text>
+
+</card>
+
+<card>
+<name>Oakish Boarmasters</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1yjzAbXvYvW4jnOgoT8cymG5UEV0UQb27">HC6</set>
+<color>G</color>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Flash 
+ When Oakish Boarmasters enters the battlefield and whenever an opponent draws a card except the forst one they draw in each of their draw steps, put a +1/+1 counter on target creature you control. Then amass Boars 1.</text>
+
+</card>
+
+<card>
+<name>Father of Runes</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/11hLodwnZ9_uBXyToNl51TT3JFcjyQAyr">HC6</set>
+<color>W</color>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>{T}: a color of your choice gains protection from Target creature until end of turn.</text>
+
+</card>
+
+<card>
+<name>Power Word Slur</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1oaSZhFqHmWcmk4DqEMLLKdpM4bIWY3DN">HC6</set>
+<color>B</color>
+<manacost>BB</manacost>
+<cmc>2</cmc>
+<type>Instant</type>
+<text>Destroy target creature. Creatures that share a type with it untap and attack you immediately.</text>
+
+</card>
+
+<card>
+<name>1d6</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1SQuCqAdVjYm0I8yH2X32Z2v5OKcHSStK">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Artifact Creature</type> <pt>2/1</pt>
+<text>When 1d6 enters or becomes tapped, Role it. 
+ 1 | Cursed 
+ 2 | Monster 
+ 3 | Royal 
+ 4 | Sorcerer 
+ 5 | Wicked 
+ 6 | Young Hero</text>
+
+</card>
+
+<card>
+<name>TRIUMPH OF THE PROLETARIAT</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1W5aQheAw9oe3kDbw5IO3bGyNHhrDXrFs">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Conspiracy</type>
+<text>AT THE START OF THE GAME, SHUFFLE YOUR COMMANDERS INTO LIBRARY. INSTEAD, EACH CREATURE YOU CONTROL IS COMMANDER! THEY EACH GET +0/+1 AND SHARE COMMANDER DAMAGE AND YOU CAN'T PUT THEM IN THE COMMAND ZONE ANYMORE.</text>
+
+</card>
+
+<card>
+<name>Weather Boy</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/13EsNYoLhamy1B4LPL3cjZVlUZ3EG1SNE">HC6</set>
+<color>U</color>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>1/4</pt>
+<text>{W} Sunny weather gives all creatures +1/+0. 
+ {U} Rainy weather gives all creatures ward {1}. 
+ {B} Overcast weather gives all makes all spells cost an additional 2 life. 
+ {R} Thunder deals 2 damage to each creature that blocks. 
+ {G} Sandstorm makes all lands Deserts that tap for any color. 
+ As weather boy enters the battlefield, choose a weather from among your commanders' colors. (The weather ability is an ability of this creature.) 
+ Cards in your hand have "Forecast—{1}, Reveal this card from your hand: Change Weather Boy's weather to match one of this card's colors."</text>
+
+</card>
+
+<card>
+<name>HC6: Banish to Minimum Wage</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1wzqC52RsVf5pfVGecoZb-2IECTeBtplk">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc>0</cmc>
+<type>Instant</type>
+<text>Suspend X—{X}{W}. X can’t be 0. 
+ When you suspend Banish to Minimum Wage, exile target creature until you cast this spell. 
+ At the beggining of your turn, if Banish to Minimum Wage is in exile, create a treasure token.</text>
+
+</card>
+
+<card>
+<name>Bodystorm</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1192FwRCIA8RkNUlejpOS23K1DXQTq1Z4">HC6</set>
+<color>G</color>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<type>Instant</type>
+<text>Manifest the top three cards of your library and look at them, then put two creatures you control on top of your library in any order.</text>
+
+</card>
+
+<card>
+<name>Barbie // Oppenheimer</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1CfoQY58nvnyOlPZF4JHfPYxi-dVdX-9c">HC6</set>
+<color>W</color>
+<manacost>2W</manacost>
+<cmc>8</cmc>
+<type>Instant</type>
+<text>Up to two target creatures become artifacts until end of turn. (They're not creatures.) 
+ Flash fuse (You may cast both halves of this card fused at instant speed.)</text>
+
+</card>
+
+<card>
+<name>Asymmetry Sage</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1haRbV5aOP2B5EEgV-6aLIMc9Bc6Nys4a">HC6</set>
+<color>U</color>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<type>Creature</type> <pt>0/2</pt>
+<text>Flying 
+ Magecraft — Whenever you cast or copy an instant or sorcery spell,  target creature has base power equal to its toughness plus or minus 1 until end of turn.</text>
+
+</card>
+
+<card>
+<name>HC6: Yahenni, Dying Partisan</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1dn5PMaBNQ1tVngRpAWcC3_xzVfpPmUSu">HC6</set>
+<color>B</color>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Vanishing 1 
+ Whenever a creature an opponent controls dies, put a time counter on Yahenni, Dying Partisan. 
+ Sacrifice a creature without vanishing: Create two token copies of the sacrificed creature, except they have Vanishing 1.</text>
+
+</card>
+
+<card>
+<name>Sike-lonic Rift</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1rPJdltgqNRTxjc31KtEMeWze1HJm-P7C">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<type>Instant</type>
+<text>Exile target nonland permanent you don't control. For each card exiled this way, it's control exiles the top card of their library and puts it onto the battlefield if it's a permanent card. Then they shuffle all cards exiled with Sike-lonic Rift into their library. 
+ Overload {6}{R}</text>
+
+</card>
+
+<card>
+<name>Middle Management</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1e8rZ5ewZf5XtaUH7VXfd2mwWxiUTmfVv">HC6</set>
+<color>W</color>
+<color>U</color>
+<manacost>3W/UW/U</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>2/3</pt>
+<text>Affinity for commanders 
+ As long as your control no other commanders, Middle Management is your commander. 
+ Commanders you control get +2/+3 and have vigilance.</text>
+
+</card>
+
+<card>
+<name>Explored Spires</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1lbSIWOMr7Ur7kRzW8D5gB_VSDbBrTUbK">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Add one mana of any color. 
+ Forecast — Reveal Explored Spires and a creature that's one or more colors from your hand: Circle one of the creature's colors below. (Activate this ability only during your upkeep and only once each turn.)</text>
+
+</card>
+
+<card>
+<name>Junior Gargaroth</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1HJq3kK_loAOHbuELcyrTolMSr3AyO-yo">HC6</set>
+<color>G</color>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Trample, reach, vigilance 
+ Whenever Junior Gargaroth attacks or blocks, choose one — 
+ • Create a 1/1 green beast creature token. 
+ • You gain 1 life. 
+ • Draw one third of a card. (Whenever you've drawn a full card, draw a card.)</text>
+
+</card>
+
+<card>
+<name>Khalni Hydra 2: Take the Crown</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1LspA0q6FVKmDaYlDZSPkVkf4hmEPXSK-">HC6</set>
+<color>G</color>
+<manacost>GGGGGGGGGGGGGGGGGGGG</manacost>
+<cmc>20</cmc>
+<type>Creature</type> <pt>8/8</pt>
+<text>Khalni Hydra costs {G} less to cast for each green creature you drafted. (20 {G}. Reveal your draft pool on cast.) 
+ Trample</text>
+
+</card>
+
+<card>
+<name>Studio Gangster</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1IF6DCM3S542v6qPNX0EuOvC6y2Pwtzjk">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/3</pt>
+<text>Whenever you commit a rhyme, create a tapped Treasure token. ( A rhyme is a spell that shares a color, card type, or mana value, with the last spell you cast this turn.)</text>
+
+</card>
+
+<card>
+<name>Blood ghast // Crip Ghast</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ael8rjlojQXvIqIihKemLHGU5gCGQeBQ">HC6</set>
+<color>R</color>
+<manacost>RR</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>2/1</pt>
+<text>Bloodghast can’t block. 
+ Bloodghast has haste as long as an opponent has 10 or less life. 
+ Landfall — Whenever a Mountain enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield. 
+ Pick a side (You may pick a side before the game begins, If you do, treat the other side as though it doesn't exist.)</text>
+
+</card>
+
+<card>
+<name>Getting the Band [Back] Together</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1MN-N-Y4EbqQbCwwmrN7mq1tD_81NNfdw">HC6</set>
+<color>B</color>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<type>Sorcery</type>
+<text>Cleave {5}{B}{B}, [Aftermath] 
+ Return up to one target creature [with banding] from each player's graveyard to the battlefield under your control. Put a banding sticker ok each of them.</text>
+
+</card>
+
+<card>
+<name>HC6: Jesus Christ GX</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1iAElfQUWAIVFaDApk5XEAOWkpTZdXzSj">HC6</set>
+<color>W</color>
+<manacost>2WW</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>Vigilance, lifelink
+Roll Away the Stone GX — WWW: Return Jesus Christ GX from your graveyard to the battlefield. (Activate only one GX ability each game.)</text>
+
+</card>
+
+<card>
+<name>Basal Thrull rod</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1T-53KhBAvOPzj6L5ZRBq41xT6etTq1io">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Artifact</type>
+<text>{T}, Sacrifice artifact: Add {B}{B} to your mana pool.</text>
+
+</card>
+
+<card>
+<name>The Claw</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1qGpSfEm3gLC3DFonu0AupEZMcAdL2usE">HC6</set>
+<color>U</color>
+<manacost>1UU</manacost>
+<cmc>3</cmc>
+<type>Instant</type>
+<text>Target noncommander creature becomes your commander. Exile it. (In addition to your other commanders.)</text>
+
+</card>
+
+<card>
+<name>Karona Outbreak</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Na5Lpyh8Ghe804e_DeDv7P8YTOQnPFa7">HC6</set>
+<color>B</color>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<type>Kindred Enchantment</type>
+<text>Flash, Enchant Creature 
+ If enchanted creature would deal damage to another creature, instead the controller of Karona Outbreak attaches a copy of it to that creature. Regenerate that creature and enchanted creature. 
+ Enchanted creature is a 1/1 Germ creature with "At the beginning of each player's upkeep, that player untaps this creature and gains control of it." and loses all other abilities.</text>
+
+</card>
+
+<card>
+<name>Garfield Eats Lasagna</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1wGz9XxgeZdEwiexeGTCfrQCVrQbTv1Q9">HC6</set>
+<color>G</color>
+<manacost>1GG</manacost>
+<cmc>3</cmc>
+<type>Enchantment</type>
+<text>I — Create a 1/1 orange Cat creature token with Devour Food 2
+II — Create a 1/1 white Human Coward token with Defender
+III — Create a food token, then exile this saga and return it to the batlefield.</text>
+
+</card>
+
+<card>
+<name>Eldrazi Spawner</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Ei0leJntAhLasa3r4G9HisadRY6vYgKw">HC6</set>
+<color></color>
+<manacost>5</manacost>
+<cmc>5</cmc>
+<type>Artifact</type>
+<text>At the beginning of each opponent's upkeep, if you control fewer than 6 Eldrazi Spawn, create a 0/1 colorless Eldrazi Spawn creature token with "Sacrifice this creature: Add {C}."</text>
+
+</card>
+
+<card>
+<name>HC6: MrMirari, Mod of Lies // Van, Hellscube Impostor</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1IA6LVtNmiJm06XFII43yw2y0XKpP-Vqc">HC6</set>
+<color>W</color>
+<color>U</color>
+<manacost>1W</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>2/1</pt>
+<text>Whenever MrMirari attacks, you may rename it. If you do, MrMirari gains hexproof until end of turn. 
+ When MrMirari dies, exile all nonland permanents with its name.</text>
+
+</card>
+
+<card>
+<name>HC6: Pot of Greend</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1fj-Twoa9tW0LMW-LyGic8EPFt_8eScbN">HC6</set>
+<color>G</color>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<type>Sorcery</type>
+<text>Draw 2 cards.</text>
+
+</card>
+
+<card>
+<name>The Cafeteria</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/11T_UHH9Vezj-7itB3f53Plr6eqEBTp29">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Add {C}.
+{R}, {T}: Suspect target creature.</text>
+
+</card>
+
+<card>
+<name>Giraffe</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1vZvEsO49lDR0sh-uX2b9RqcjlI8lmHkM">HC6</set>
+<color>G</color>
+<manacost>3G</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>Reach, Reach, Reach,Reach
+{T}, Tap an untapped Forest you control: You gain 3 life. Put a +1/+1 counter on Giraffe.</text>
+
+</card>
+
+<card>
+<name>Wiimote</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1wMmaLhRwXXoU22AluETIshLZHqvspxxB">HC6</set>
+<color>W</color>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<type>Artifact</type>
+<text>Flash
+As Wiimote enters a public zone, choose another permanent or card in that zone.
+When you move Wiimote, the chosen card moves with it. (It goes to the same zone.)
+Evoke {3}{W}</text>
+
+</card>
+
+<card>
+<name>HC6: Purple Pip Picker</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1AsjMR1pWt-YGZGE2UpUEq3Vs1-8Ig6So">HC6</set>
+<color></color>
+<manacost>5</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>3/2</pt>
+<text>Prior to play, publicly pick a pair of playing pieces you possess. Pick a purple monocolor pip per playing piece. Put each pip in place of it’s partner provided neither playing piece profits in particularly pigmented pips. 
+ Partiality for purple unique pips (affinity) 
+ Prowess, persist, poisonous 1, protection from planes</text>
+
+</card>
+
+<card>
+<name>Temple of the False Gods</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1r8P705oRgNoN561cGu5SDP50gJ5GzbGv">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Add {C}{C}{C}. Activate only if you control five or more lands.</text>
+
+</card>
+
+<card>
+<name>They Don't Stop Coming // They Don't Stop Coming // They Don't Stop Coming // ...</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1cwjf9r9o4r7S8X9omiuwIkfHuYZ4AoRX">HC6</set>
+<color>B</color>
+<color>G</color>
+<manacost>B/G</manacost>
+<cmc>1</cmc>
+<type>Sorcery</type>
+<text>Return target creature from yoru graveyard to your hand.
+Fuse (You may cast any parts of this card from your hand.)</text>
+
+</card>
+
+<card>
+<name>Crypt Ghast Goes Hawaiian</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/19iMkk3zb8zGhieXWe9VrmnrVz6zHADd6">HC6</set>
+<color>G</color>
+<manacost>3G</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Explort (Whenever you cast a spell, you may pay {G/U}. If you do, this creature explores.)
+Whenever you tap a Forest for mana, add an additional {G}.</text>
+
+</card>
+
+<card>
+<name>The Giantest Badger</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1OjwsToGkjWZOs_zHy2Cv26d99MNq2Ykt">HC6</set>
+<color>G</color>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>6/6</pt>
+<text>Indestructible, trample
+As long as you control five or fewer Badgers, The Giantest Badger isn't a creature.
+Whenever you cast a creature spell, create a Giant Badger token.
+Abilites that affect Badgers you control lose "until end of turn." (This includes spell abilities. Use markers.)</text>
+
+</card>
+
+<card>
+<name>Half-Commander, Half-</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1L_RyO-P8MKNI2BDrjLwvyaF6TpV9CIxZ">HC6</set>
+<color>R</color>
+<color>G</color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Creature</type> <pt>+2/+2</pt>
+<text>Sticky (Counters and objects remain attached to this card as it moves to any public zone, and it remains combined with other cards.)
+Half-Commander, Half- can augment non-host creatures you own.
+Commander Augment {1}{R}{G} ({1}{R}{G}, Reveal this card from your hand or command zone: Combine it with target host. Augment only as a sorcery. If this card already had a host, it is detached.)</text>
+
+</card>
+
+<card>
+<name>McDonald’s Manufactor</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/16mwk4-Xb4vOOZgsohIH7oCUYfNacd9-m">HC6</set>
+<color></color>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<type>Artifact Creature</type> <pt>2/6</pt>
+<text>If you would create a Clue, Food, or Treasure token, instead create three Food tokens.</text>
+
+</card>
+
+<card>
+<name>Urza's Storage Units</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1fWfXSGBVYn2EGFdykgkC-fT1VfOJpUSP">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Choose a card type. The next spell of that type you cast costs {1} less. If you control three Urza's it costs {3} less instead.
+{7}, {T}: Create an Urza's Junk token.</text>
+
+</card>
+
+<card>
+<name>Anarchy</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1WGQFOf5mVOTSPwN2BJCwatxhe1fTGGOH">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Conspiracy</type>
+<text>Your starting hand size is reduced by one for each commander you have over 2.
+At the beginning of the game, choose two colors.
+You may have any number of colorless commanders or commanders in those colors. They can't return to the command zone.</text>
+
+</card>
+
+<card>
+<name>Thriving Lectern</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1S10W5v7Lt4XU3pKtI0fljnXL1v8OrWFp">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Artifact Land</type>
+<text>Thriving Lectern enters the battlefield tapped.
+As Thriving Lectern enters the battlefield, choose a color other than blue.
+{T}: Add {U} or one mana of the chosen color.
+{1}, Sacrifice Thriving Lectern: Create a Sorcerer Role token attached to target creature you control. Activate only as a sorcery.</text>
+
+</card>
+
+<card>
+<name>Twenty-Eight Stab Wounds</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1tM2oS5wGUi84-en1rLMOOzAbWQHDqZ8x">HC6</set>
+<color>B</color>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<type>Enchantment</type>
+<text>Enchant creature
+Enchanted creature gets -56/-56.
+At the beginning of the upkeep of enchanted creature's controller, that player loses 56 life.</text>
+
+</card>
+
+<card>
+<name>Stack Overflow</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1FImr_78GLB3zMYa4SrUyaBJeMnaq0gs3">HC6</set>
+<color>R</color>
+<manacost>2R</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>When Stack Overflow enters, draw a card.
+Excess damage dealt by instant and sorcery spells you control causes you to create that many 1/1 green Insect creature tokens with flying.</text>
+
+</card>
+
+<card>
+<name>I'm Seeing Double!</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1cVKdON5BBftKmxPGt9nlN9l6bRIIkvBh">HC6</set>
+<color>R</color>
+<manacost>4R</manacost>
+<cmc>5</cmc>
+<type>Enchantment</type>
+<text>Creatures attacking the player to your left are simultaneously attacking the player to your right, and vice versa. (This applies to everyone's attacks, not just yours. The players only block for themselves.</text>
+
+</card>
+
+<card>
+<name>Dis Count</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1FytEuQCBZhygLVlm2HfT9dc6prWEJ1Gu">HC6</set>
+<color>B</color>
+<manacost>2BB</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Affinity for Blood
+Creature spells you cast have affinity for permanents with cost reduction abilities. (Abilities that wolud let you cast a spell for less than its mana cost.)</text>
+
+</card>
+
+<card>
+<name>Agent Fblthp</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1h1gcOuKeOwGj_bz9dGlmGi8fqXc34Hrl">HC6</set>
+<color>U</color>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>When Agent Fblthp enters from the battlefield, if it was cast from:
+your hand or command zone, X = 1;
+exile, X = 2;
+a graveyard, X = 3;
+your library, X = 4;
+the battlefield or sideboard, X = 5;
+the stack or nonsensical zone, X = 6;
+then, draw X cards.
+Command Plot {3}{U} (Commander Plot uses command tax.)</text>
+
+</card>
+
+<card>
+<name>Sisyphus and The Rock GX // Dwayne The Rock Johnson</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1YqYfuMiXfvmBN4R5bTMUvOlRKtk68-y-">HC6</set>
+<color>B</color>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<type>Enchantment</type>
+<text>Sisyphus and The Rock can be your commander.
+Sisyphus and The Rock can't be sacrificed.
+I — Each player discards a card, sacrifices a nonland permanent, or loses 3 life.
+II — Exile Sisyphus and The Rock and return it to the battlefield.
+III — Perpetually underload Sisyphus and The Rock and create a copy of Dwayne "The Rock" Johnson. Exile Sisyphus and The Rock and return it to the battlefield.
+Imagine Sisyphus Happy GX {8}{B}: Put 2 lore counters on Sisyphus and The Rock. (You can only activate one GX ability per game.)</text>
+
+</card>
+
+<card>
+<name>Black Creature Removal</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ls8Bh8aT0jnwd99wfqjkyuxXPnnMQbZk">HC6</set>
+<color>B</color>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<type>Instant</type>
+<text>Destroy target advisor, alien, ally, angel, appliance, archon, army, artificer, asexual, asshole, badger, balloon, barbarian, bard, basilisk, bat, beaver, bear, beast, bird, camel, caribou, cat, centaur, clockwolf, construct, coward, coyote, crab, crocodile, demigod, demon, dinosaur, djinn, ... or ... (That's all of them.)</text>
+
+</card>
+
+<card>
+<name>Dryad Tag-team</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1LXNQKzj7CpovO2D2ghckvKh00imES-Ll">HC6</set>
+<color>G</color>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/3</pt>
+<text>{G}fect (This creature deals damage in the form of Add {G} that doesn't leave your mana pool as steps and phases end.)</text>
+
+</card>
+
+<card>
+<name>The Rainbow fish</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1hpSBYTa_ZtoICRdwEqI8INmJngGH44gh">HC6</set>
+<color>U</color>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/2</pt>
+<text>{T}: Put a scale on another target creature. (It's beautiful :D !)
+{U}{U}, {T}: Target beautiful creature fights target non-beautiful creature.</text>
+
+</card>
+
+<card>
+<name>Oops I dropped all my bones</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/11_0_Voqzil56VQNS6-uLutI88Y3P0bT8">HC6</set>
+<color>B</color>
+<manacost>3B</manacost>
+<cmc>4</cmc>
+<type>Sorcery</type>
+<text>Skelefest all cards from your hand. (Manifest but they're black Skeletons.)
+Draw two cards.</text>
+
+</card>
+
+<card>
+<name>Decimate But It’s Historically Accurate</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/15ssQJaKHf-SuguxeIif_tSJmLjZau-EA">HC6</set>
+<color>R</color>
+<color>G</color>
+<manacost>R/GR/GR/GR/G</manacost>
+<cmc>4</cmc>
+<type>Sorcery</type>
+<text>For each opponent, destroy ten percent of permanents that player controls rounded up.</text>
+
+</card>
+
+<card>
+<name>Germa, Germiest Germ</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/12jGNlb_Ut236_M8prrpv9sMmkZ7d_FJJ">HC6</set>
+<color>B</color>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<type>Creature</type> <pt>0/0</pt>
+<text>Germs you control get +1/+1.
+Equipment you control have living weapon and Aura spells you cast have living aura. (You may cast an Aura with living aura without a target. If you do, it enters enchantinng a Phyrexian Germ.)</text>
+
+</card>
+
+<card>
+<name>HC6: Regardless of the century, plane, or species, developing artificers never fail to invent the ornithopter.</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1nBX5sqZpGn4LaFa8RG4aJXGjFj9rzlSP">HC6</set>
+<color></color>
+<manacost>0</manacost>
+<cmc></cmc>
+<type>Sorcery</type>
+<text>Conjure an Ornithoptor in any number of zones. (It gets shuffled into hidden zones.)</text>
+
+</card>
+
+<card>
+<name>Change of Heart</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/19mEbeJmSu9CFNSBg3hadKSEnUBCzwgNh">HC6</set>
+<color>B</color>
+<manacost>3B</manacost>
+<cmc>4</cmc>
+<type>Instant</type>
+<text>Gain control of target creature's heart. (It fucking dies.) (It's an artifact token with "Sacrifice Heart: Regenerate target creature.)</text>
+
+</card>
+
+<card>
+<name>Watergate (hc6)</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1xIe6wK_nUjp9WCQTkvlg4aEbT-FByy0_">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Add {U} or a color named with Watergate.
+{T}: Look at target opponent's hand and name a color which a card in that hand is. Activate only once.</text>
+
+</card>
+
+<card>
+<name>the aux</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1qkbEQWVE9We1ntK_bkvZcUfjhumqrfH7">HC6</set>
+<color></color>
+<manacost>4</manacost>
+<cmc>4</cmc>
+<type>Artifact</type>
+<text>the aux has a colorless color identity.
+Whenever you get passed the aux, reveal it and circle a song.
+the aux enters the battlefield tapped.
+{T}: Add one mana of each of the circled colors.
+{W} | The Duck Song - The Duck
+{U} | Buddy Holly - Weezer
+{B} | Ruler of Everything - Tally Hall
+{R} | Smash, Smash - Goblin Chieftan
+{G} | Good Riddance (Time of Your Life) - Green Day</text>
+
+</card>
+
+<card>
+<name>Mana Fixer-Upper</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1X3f3-KcKWPlG2UtMK68ujPkhUHpngCiD">HC6</set>
+<color></color>
+<manacost>1</manacost>
+<cmc>1</cmc>
+<type>Artifact</type>
+<text>{2}, {T}, Sacrifice Mana Fixer-Upper: Search your libarry for a land card, put that card onto the battlefield tapped, then shuffle.</text>
+
+</card>
+
+<card>
+<name>HC6: The Sniper // Jarate</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1TCkXu_bIG13IdoiVnUT3Ay6is0KsBRP-">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/1</pt>
+<text>{2}{R}, Shuffle The Sniper into your library: The Sniper deals 1 damage to target creature. You may only activate this ability from your sideboard or from exile.</text>
+
+</card>
+
+<card>
+<name>Anti-HC6 Tech</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/19gxU1aQTaTljcvYe6dTzb7r0bnOXaGzN">HC6</set>
+<color>R</color>
+<color>G</color>
+<manacost>3R/GR/G</manacost>
+<cmc>5</cmc>
+<type>Enchantment</type>
+<text>At the beginning of your upkeep, create a 1/1 Human Rebel with Riot for each legenedary permanent your opponents control.</text>
+
+</card>
+
+<card>
+<name>You see a number of Goblins</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1xqq8sULnh4rOr78mEWIHVI02lQPQRI18">HC6</set>
+<color>R</color>
+<manacost>2RR</manacost>
+<cmc>4</cmc>
+<type>Sorcery</type>
+<text>Befriend Them — Create two 1/1 red Goblin creature tokens.
+Multiplekickers
+roll a d20 —
+1-9 | Create a 1/1 red Goblin creature token.
+10-19 | Create two of those tokens.
+20 | Create three of those tokens.
+Sacrifice two mountains — Put two 1/1 red Goblin tokens into play.
+Sacrifice two Mountains — Put two 1/1 red Goblin creature.
+Sacrifice a Goblin — Create two 1/1 red Goblin creature tokens.
+{R} — Create two 1/1 red Goblin creature tokens.
+{R} — Create two 1/1 red Goblin creature tokens.
+{1}{R} — Create two 1/1 red Goblin Wizard creature tokens with prowess.
+{R}{R} — create two 2/2 red Goblin creature tokens.
+{2}{R} — Create a number of 1/1 red Goblin creature tokens equal to two plus the number of times it was kicked.</text>
+
+</card>
+
+<card>
+<name>Commander Staple</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1p2rOrW_sqwJLHSjSWHwg0Xvov8FqjkTB">HC6</set>
+<color></color>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<type>Artifact</type>
+<text>When Command Staple enters the battlefield, combine a face up commander card you own with another face up nonland permanent card you own for as long as you control Command Staple. Put that card into the commander zone. (It has the total combined mana cost of both cards.)
+{T}: Add one mana of any color. Commander Staple deals 1 dameg to you.</text>
+
+</card>
+
+<card>
+<name>Liliana of the Vale</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Wi8a2J-lKKSLMkXIsrmrhAWMrxudwFXV">HC6</set>
+<color></color>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<type>Planeswalker</type>
+<text>{-1}: Add one mana of any color.
+{-3}: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+
+</card>
+
+<card>
+<name>Platinum Custodian</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ZCUnbZ_2G6x_-T1Fv6umEFinEINay-Hx">HC6</set>
+<color></color>
+<manacost>4</manacost>
+<cmc>4</cmc>
+<type>Artifact Creature</type> <pt>4/4</pt>
+<text>You can't lose the game and your opponents can't win the game except during your cleanup step.</text>
+
+</card>
+
+<card>
+<name>Target Creature</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1pff7p4kkGC-7i_Z-Gdz_pDA_UQ13Ex0z">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Artifact Creature</type> <pt>1/1</pt>
+<text>{1}, {T}: Up to one target creature is a copy of Target creature until a Target creature leaves the battlefield.
+Spells can't target creatures except Target creatures.</text>
+
+</card>
+
+<card>
+<name>Smart Fella // Fart Smella</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1E9lWc1oX60xdWVNXVvJXe4ag0e8Qsat2">HC6</set>
+<color>U</color>
+<manacost>3U</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>2/4</pt>
+<text>{T}: Draw X cards, where X is Smart Fella's power, then discard a card. If there are five or more cards in your graveyard, transform Smart Fella.</text>
+
+</card>
+
+<card>
+<name>HC6: Gun Titan</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/13dnWdvemU5Cr7VS1lbfYPZdMpNQ_3U0O">HC6</set>
+<color>W</color>
+<manacost>4WW</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>6/6</pt>
+<text>Vigilance
+Whenever Gun Titan enters the battlefield or attacks, you may return target permanent with mana value 3 or less from the battlefield to your graveyard.</text>
+
+</card>
+
+<card>
+<name>Loicense Inspector</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/10ABqrPulr5nJIMS9SR6JZFcqFbplaWoT">HC6</set>
+<color>W</color>
+<manacost>3W</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>3/2</pt>
+<text>{2}: Create a ___ License artifact token, where ___ is a nonland card type. Any player may activate this ability.
+Players ca't cast spells they don't have the proper Licenses for.</text>
+
+</card>
+
+<card>
+<name>Inside Job</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1EnsdNpMXsdTveDwowvG_FMPfC6TZU6Wc">HC6</set>
+<color>B</color>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<type>Instant</type>
+<text>As an additional cost to cast this spell, sacrifice a creature or sacrifice a commander from the command zone. (You can't put it back this time.)
+Draw two cards.</text>
+
+</card>
+
+<card>
+<name>BeyONd bELIeF: FAct or fiCtioN</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/17zyHh2pDUOboXj_O5xNZuJs-4jB2XLVh">HC6</set>
+<color>U</color>
+<manacost>3U</manacost>
+<cmc>4</cmc>
+<type>Instant</type>
+<text>Reveal the top five cards of your library. An opponent separates those cards into two piles, then choose one:
+It's true. It really happened — Put one pile into your hand and the other into your graveyard.
+Not this time. It's a total fabrication — Put both piles inot your graveyard, then exile Beyond Belief. At the beginning of your next upkeep, you may cast it without paying its mana cost.</text>
+
+</card>
+
+<card>
+<name>HC6: Sick Ass Skateboard</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1KveEmmCa5tTICh8z4PMod7Ypr3wxAzm1">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Artifact</type>
+<text>Equip {1}
+Equipped creature has trample, haste, and "Whenever this creature deals damage, target player gains that many Rad Counters."</text>
+
+</card>
+
+<card>
+<name>Sow Discord</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1R-_diSNYpXpq472wDXD2VPS8XcfdpKu2">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Conspiracy</type>
+<text>Before the start of the game, for each opponent, you ma secretly mesasge them an opponent's name. If you only messaged a single player, they are your conspirator.
+(Players may bluff, but can't screenshot secrets.)
+When any opponent has 20 or less life for the first time, reveal your messages. If that player is the name you sent to your conspirator, you and your conspirator each draw a card.</text>
+
+</card>
+
+<card>
+<name>HC6: Dreadmavan, Colossal Pilferer</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1vwwC0gOHsBE-m0QhA__ryFdCgw3cE5nR">HC6</set>
+<color>G</color>
+<manacost>4GG</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>6/6</pt>
+<text>Trample
+Whenever Dreadmavan deals combat damage to a player, exile the top card of that player's library. Until end of turn, you may cast that card as though it were a Colossal Dreadmaw.
+Return to Monke {1}{G} (Dash, but it's a 2/1 without trample)</text>
+
+</card>
+
+<card>
+<name>Half-Thriving ____ Half-Thriving ____</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1DiDpu4nHByfhdSSvod3hJpZPQWTpd2GW">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>When ~ enters the battlefield, choose a row from the right -side card and add its text to this card.
+{T}: Add {Add}.
+{Cost}: Until end of turn, Half-Thriving {Name 1} Half-Thriving {Name 2} becomes a {P/T} {Type} creature with "Whenever this creature attacks, you get {E}{E}."
+{E}, {T}: Add one mana of any color.
+{E}{E}: Put a +1/+1 counter on ~.
+Name 1 - Add - Name 2 - Cost - P/T - Type
+Heath - {W} - Ibex - {3}{W} - 2/4 - Goat
+Isle - {U} - Turtle - {U} - 0/3 - Turtle
+Moor - {B} - Rats - {1}{B} - 1/2 - Rat
+Bluff - {R} - Grubs - {1}{R} - 2/1 - Gremlin
+Grove - {G} - Rhino - {2}{G} - 2/3 - Rhino</text>
+
+</card>
+
+<card>
+<name>Wormthing</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1TINuMV3Y9PoaswkLct9LSD_Ki77sp97U">HC6</set>
+<color>B</color>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>*/1</pt>
+<text>Wormthing has the power of its worms.
+Whenever a creature dies, bestow unto Wormthing a 1/1 black Worm enchantment creature token.</text>
+
+</card>
+
+<card>
+<name>hill of possibility</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1MMWVgA_NUFpfXyak05zECx5-kMAKZLrp">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>hill of Possibility enters the battlefield tapped.
+As hill of Possibility enters the battlefield, choose a color other than red.
+{T}: Add {R} or one mana of the chose color.
+{1}{R}{1}{R}, {T}, Sacrifice hill of Possibility, discard a card: Draw two cards.</text>
+
+</card>
+
+<card>
+<name>New Old Fogey</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1f42dNPO1RUtnHXrFS2tazN9Evi-CAJsD">HC6</set>
+<color>G</color>
+<manacost>7GGG</manacost>
+<cmc>10</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>Delve, Prowess, Outlast {0}, Tribute 4
+When this creature enters the battlefield, if tribute wasn't paid, look at the top X cards of your library, where X is your devotion to green. Put two of them into your hand ard the rest into your graveyard.
+Inspired — When New Old Fogey becoes untapped, put a card exiled by New Old Fogey into your hand.</text>
+
+</card>
+
+<card>
+<name>Bill from the Pub</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1edvztOOr9htCagknMEww3WrD5fegYWWe">HC6</set>
+<color>W</color>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>4/2</pt>
+<text>Choose TWO Backgrounds of up to two different colors (including white). Any enchantment can be Bill's Background, but costs {1} more.
+Whenever an enchantment enters the battlefield under your control, you may make it Bill's Background. (Bill can only remember two of his backgrounds at a time, so make him forget one if necessary.)</text>
+
+</card>
+
+<card>
+<name>...But Bigger</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1_nUTjbdnkIXySuYI4Bi3yWOlnnIvvvoH">HC6</set>
+<color>G</color>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>Enchant creature
+Enchanted creature and each other permanent attached to it get +2. (Increase each of their non-cost numbers and number words by two.)</text>
+
+</card>
+
+<card>
+<name>Avatar of BallsJr123</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1l5pLOOdfNuT2PkYd-tXFZS6q2IJxg8ea">HC6</set>
+<color>W</color>
+<color>U</color>
+<color>G</color>
+<manacost>3GWU</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>3/6</pt>
+<text>Myriad
+If an effect you control would create one or more creature tokens, instead create that many token copies of a random HC creature with mana value equal to the average power of the tokens that would have been created, rounded down.</text>
+
+</card>
+
+<card>
+<name>Evil Goblin</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/11uH4SRETGxpU8D4qL1qiP69TP3OPwLnH">HC6</set>
+<color>B</color>
+<color>R</color>
+<manacost>1BR</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>4/3</pt>
+<text>Creature spells you cast have Uncasualtyblitzleash X, where X is its power. (As you cast a creature spell, you may sacrifice a creature with greater or equal power. If you do, copy the spell, then blitz and unleash the copy.)</text>
+
+</card>
+
+<card>
+<name>Smith of Sword and Sword // Sword of ____ and ____</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1tL6EBvnPYuwXlUbZWDkj4xZU2fZO5Qd2">HC6</set>
+<color>W</color>
+<manacost>4W</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Imprint — When Smith of Sword and Sword enters, exile two nonland cards with mana value 3 or less from your graveyard, then create a Sword of ____ and ____ token where the blanks are the exiled cards.</text>
+
+</card>
+
+<card>
+<name>Anatomy of a Hellscube Card</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1tLDpshCsAcyBV2DOB8erU22GIXU2lGej">HC6</set>
+<color>U</color>
+<manacost>3U</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>3/4</pt>
+<text>Whenever this creature or a creature an opponent controls enters the battlefield, you may replace Anatomy of a Hellscube Card's text box with target creatures, except it has this ability.</text>
+
+</card>
+
+<card>
+<name>Sacred Scute</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1S3h89XgAyywhfHABPKkhvgrXJFL7iYtI">HC6</set>
+<color>W</color>
+<color>G</color>
+<manacost>1G/W</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Lifelink
+Landfall — Whenever a land enters the battlefield under your control, populate.
+Embalm {2}{G/W}{G/W} ({2}{G/W}{G/W}, Exil this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Cat Insect with no mana cost. Embalm only as a sorcery.)</text>
+
+</card>
+
+<card>
+<name>HC6: Hell's Cube</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1CxSpDj37GjLRmlJQvmSvAZQLIfVkSv8U">HC6</set>
+<color></color>
+<manacost>4</manacost>
+<cmc>4</cmc>
+<type>Artifact Creature</type> <pt>0/0</pt>
+<text>At the beginning of your upkeep, rotate Hell's Cube to any of its adjacent faces.
+At the beginning of each player's end step, that player draws a card.
+{2}, {T}: Put a card from your hand in exile, a card you own in exile into your graveyard and a card from your graveyard into your hand.
+{T}: Add {C}{C}.
+Equipped creature gets +4/+0 and has vigilance and trample.
+Equip {3}
+Hell's Cube's power and toughness are equal to the number of cards in your hand.
+Sacrifice Hell's Cube: Destroy target creature.</text>
+
+</card>
+
+<card>
+<name>Tishana's Tide Binder</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1oIkSFM_SyFr60C9ufctYacXIYYP805Ty">HC6</set>
+<color>U</color>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/2</pt>
+<text>Flash
+When Tishana's Tidebinder enters the battlefield, cast one without paying its mana cost.
+• High Tide
+• Scuttletide
+• Tidal Wave
+• Mantle of Tides
+• Riptide Mangler</text>
+
+</card>
+
+<card>
+<name>Curse of Seafood Allergy</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Z1WjaLewdIcqHkvSNOh2P6dkTvlHSq40">HC6</set>
+<color>U</color>
+<manacost>5UUU</manacost>
+<cmc>8</cmc>
+<type>Enchantment</type>
+<text>Enchant player
+If a source that's a Kraken, Leviathan, Octopus, and/or Serpent would deal damage to enchanted player, it deals double that damage to that player instead.
+At the beginning of your upkeep, create a 8/8 blue Octopus creature token.</text>
+
+</card>
+
+<card>
+<name>Doomguy and Isabelle</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Z9rz6BbnnrlCEvp-krVhL5YHfdP2ADks">HC6</set>
+<color>W</color>
+<color>B</color>
+<color>R</color>
+<manacost>RWB</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/4</pt>
+<text>Whenever Doomguy and Isabelle enters or attacks, choose one:
+• Find Ammo — You get {E}{E}{E}
+• Find Item — You get {E} and create a random Item token. (Roll 1d10 and circle that icon.)</text>
+
+</card>
+
+<card>
+<name>Memory Lapse (Not the Homelands One)</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1EKIJlPytWnpcX0XAgVU7PLqDdfDc3lJk">HC6</set>
+<color>U</color>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<type>Instant</type>
+<text>Choose one —
+• Target "until end of turn" or "this turn" effect doesn't end. (Indefinitely)
+•Skip target non-untap step
+Draw a card</text>
+
+</card>
+
+<card>
+<name>Imprisoned in the Sun</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1r1TAwjkTRxyyLtNCCZKXp1ejMRbIE7oO">HC6</set>
+<color>W</color>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>Enchant creature, land, or planeswalker
+Enchanted permanent is exiled</text>
+
+</card>
+
+<card>
+<name>I'll Make My Own Cube, with Blackjack and Henzie</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ox8433hGBtUhDSpPFxylnYywxCIVLIw1">HC6</set>
+<color>B</color>
+<color>R</color>
+<color>G</color>
+<manacost>6G/GR/GB/G</manacost>
+<cmc>9</cmc>
+<type>Sorcery</type>
+<text>Reveal cards from the top of your library until you reveal a creature card with mana value 4 or higher. Put it onto the battlefield blitzed. Repeat this process any number of times or until the total mana value of creatures put onto the battlefield this way exceeds 21, in which case you sacrifice them. Put all other cards revealed this way on the bottom of your library in a random order.</text>
+
+</card>
+
+<card>
+<name>Hot Potato</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ULjUdfUZ-rmA4jiH7cayhyzqWDuQvK89">HC6</set>
+<color>U</color>
+<color>B</color>
+<manacost>1U/B</manacost>
+<cmc>2</cmc>
+<type>Instant</type>
+<text>As an additional cost to cast this spell, you may pay {3} and place copies of Murder, Disenchant, and Generous Gift. (You choose the targets.)
+Starting with the next player in turn order, each player must change each target for another spell on the stack.</text>
+
+</card>
+
+<card>
+<name>The British Empire</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/17GIvI-UNZIP1IPt-6c2MQw5SndfK2xU8">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Enchantment Land</type>
+<text>{T}: Add {C}.
+{T}, Collect land: Creature a Treasure token. (To collect land, exile a land card from your graveyard.)
+{1}{X}{X}, {T}, Sacrifice The British Empire: Gain control of target artifact with mana value X.</text>
+
+</card>
+
+<card>
+<name>Sans Seraph</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1YKP1mTF-h3mld7iFqZPHplvKt1Wkq4CA">HC6</set>
+<color>W</color>
+<manacost>2WW</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Flying, first strike
+Whenever Sans Seraph deals combat damage to a player, you may return target permanent card with four or fewer lines of rules text from your graveyard to the battlefield.</text>
+
+</card>
+
+<card>
+<name>Trostani, Now Hiring</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/15v2RHFRPokMJIsSJZcmIl54OxBLEMozE">HC6</set>
+<color>W</color>
+<color>G</color>
+<manacost>1GW</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/3</pt>
+<text>{1}{G}: Target creature gains deathtouch until end of turn.
+You may cast Trostani merged with a monogreen or monowhite creature card from your sideboard (adding costs, types, abilities, power, and toughness.)
+{2}{W}: Target creature gains double strike until end of turn.</text>
+
+</card>
+
+<card>
+<name>Urza's Orphanage</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1-63MG9tyrpX2EKsgOE_4eJSS4sxt2rS6">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Add {C}.
+{T}: Create a white 1/1 Child Soldier creature token with haste and enlist. Activate only if at least two non-Child creatures died under your control this turn.
+{T}, Sacrifice a Child: Create a Powerstone token.</text>
+
+</card>
+
+<card>
+<name>Teferi’s Orb</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/18oEjig81hHR2sdDYuZgkkQ5lYGXeBFy9">HC6</set>
+<color>U</color>
+<manacost>3U</manacost>
+<cmc>4</cmc>
+<type>Artifact</type>
+<text>If you would draw a card instead look at the top three cards of your library, then put them back in any order. You may shuffle.
+Then draw a card</text>
+
+</card>
+
+<card>
+<name>Maximillion Pegasus</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/19ZYqxsnqyDdfosG3OTttLuhGXl-bLNMI">HC6</set>
+<color>B</color>
+<manacost>3BB</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>5/4</pt>
+<text>Menace, deathtouch, lifelink
+When Maximillion Pegasus enters the battlefield, move Maximillion Pegasus and a creature that each opponent controls to the Shadow Realm. (The Shadow Realm is a separate battlefield that permanents cannot be cast into. If a card would exit the Shadow Realm, it is exiled instead.)</text>
+
+</card>
+
+<card>
+<name>The Mysterious Case of Who Shit My Pants</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1tL7gfGi2j2cEWzhBsBSWkam66izQmWeQ">HC6</set>
+<color>B</color>
+<color>R</color>
+<manacost>3B/RB/R</manacost>
+<cmc>5</cmc>
+<type>Enchantent</type>
+<text>The Crime — When this enters the battlefield, a shard token is mysteriously created under your control.
+The Investigation — At the start of combat on your turn, suspect target unsuspected player until this leaves the battlefield. (They have menance and can't block.)
+The Stench — You have shroud as long as you control a shard token.
+To Solve — You are Suspected. (If unsolved, solve at the beginning of your end step.)
+Solved — You lose the game.</text>
+
+</card>
+
+<card>
+<name>Judge's Nephew Elemental</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/13tGkjXZOcvC1RF-KOvIy3ZCn2QzzjGUn">HC6</set>
+<color>U</color>
+<manacost>2UU</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>3/5</pt>
+<text>When this creature deals damage to a player, warn them for cheating. If they've been warned three or more times, issue them a game loss.
+{2}{U}{U}{U}: "Rollback" to when permanents your opponents control were tapped. Activate only on your turn.</text>
+
+</card>
+
+<card>
+<name>Adrix and Nev, Twingrafted</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1euJzM2aVSYT7vQeGkPViBjXRcp10HwcV">HC6</set>
+<color>U</color>
+<color>G</color>
+<manacost>GU</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>3/1</pt>
+<text>If Adrix and Nev is your commander, enchanted creature is your commander.
+Your commander's abilities activate and trigger twice.
+Bestow {1}{G}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</text>
+
+</card>
+
+<card>
+<name>Introduction to Algebra</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1GVEv5owNhxd7LG1WwqKf_bjJ-eDkCmYN">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Sorcery</type>
+<text>Exile target creature with power to toughness ratio X:Y. Draw a card. (Remember to simplify!)
+Plot {X} and {Y}.</text>
+
+</card>
+
+<card>
+<name>Harsh Judge</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/15M-5HJpV6Y4zJS0-dzt9kRxerVR0ogZy">HC6</set>
+<color>B</color>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/2</pt>
+<text>Whenever an opponent commits a crime, that player serves three life sentences. (They lose one life three times.)</text>
+
+</card>
+
+<card>
+<name>Problem Trolley</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1E5vEq3JCPAfnL63QpV-qslJcfxfW-z1u">HC6</set>
+<color></color>
+<manacost>4</manacost>
+<cmc>4</cmc>
+<type>Artifact</type> <pt>1/5</pt>
+<text>Whenever Problem Trolley attacks, you face a villanous choice —
+• Make the right choice and you get three brownie points.
+• Make the wrong choice and the defending player sacrifices one or three creatures (They choose.)
+Problem Trolley gets +1/+1 for each brownie point you have.
+Crew 3 or two brownie points.</text>
+
+</card>
+
+<card>
+<name>Prismatic Pardner</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1WKVDvZB0jEVNoMxe5dvggAqguJq1jdUe">HC6</set>
+<color></color>
+<manacost>5</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>If Prismatic Pardner is your commander, choose a color beore the game. Prismatic Pardner is the choosen color.
+Commanders have horsemanship as long as Prismatic Pardner is saddled.
+Saddle Commander</text>
+
+</card>
+
+<card>
+<name>I’m an original thought haver!</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1_igbiz-d7ZYC5D6GVJbn3ZFCVKVQzYGO">HC6</set>
+<color>W</color>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Creatures are nonlegendary tokens.
+{6}{W}: Populate. (Create a token that's a copy of a creature token you control.)</text>
+
+</card>
+
+<card>
+<name>It That Beetrays</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1a0tzSjijyaY6rwr9HFjikuASBG6O3bNw">HC6</set>
+<color></color>
+<manacost>7</manacost>
+<cmc>7</cmc>
+<type>Creature</type> <pt>6/6</pt>
+<text>Flying
+Antnihilator 2 (Whenever this creature attacks, defending player chooses two non-Insect permanents they control to become 1/1 Insect creatures and lose all other types and abilities.)
+If an insect an opponent controls would die, gain control of it instead.</text>
+
+</card>
+
+<card>
+<name>Curse of Unpaid Internship</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1fykxuqZFLoF9cXhf1Gayfk_AazMeQswK">HC6</set>
+<color>W</color>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>Enchant player
+ When this enters and at the beginning of your upkeep, each player creates a Treason token.
+The first time enchanted player would create one or more Treasures each turn, they get an experience counter instead.</text>
+
+</card>
+
+<card>
+<name>Resolving Wilds</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1It8sIWn9L016gSsbBT4vH42gyrti6kon">HC6</set>
+<color></color>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<type>Sorcery</type>
+<text>You may cast this spell as your land drop rather than pay it's mana cost.
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+
+</card>
+
+<card>
+<name>help me make this card elemental</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/13Pq9JWXVyIGc8F9szgJMxSwyl0TLa3o9">HC6</set>
+<color>W</color>
+<manacost>2WW</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>4/5</pt>
+<text>{2}: put two +1/+1 counters, a vigilance counter, a lifelink counter, or a first strike counter on help me make this card elemental. you can't choose a redundant ability counter. it attacks this turn if able. only your opponents may activate this ability, but only during your turn before you declare attacks.
+help me make this card elemental can't attack the last opponent who activated its ability this turn.</text>
+
+</card>
+
+<card>
+<name>Instant Creature</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1tGRjvEBB8vyK3CUCVvmRVEMtVme2pqPP">HC6</set>
+<color>U</color>
+<manacost>UU</manacost>
+<cmc>2</cmc>
+<type>Instant Creature</type>
+<text>As an additional cost to cast this spell, reveal a creature in your sideboard and pay its mana cost.
+Instant Creature enters the battlefield as a copy of that creature.</text>
+
+</card>
+
+<card>
+<name>Mugger's Alley</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1OHv0dixPPBMuBCet5Wt4M_JY7KdwYHYm">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>Mugger's Alley enters the battlefield tapped.
+{T}: Add {B}.
+{B}, {T}: Target opponent pays you {H/C}.</text>
+
+</card>
+
+<card>
+<name>Collatz Conjurer</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1-_3ajmBcJmy3PBhfsw8Ijocqw0ILbVr0">HC6</set>
+<color>U</color>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>0/0</pt>
+<text>Collatz Conjurer enters the battlefield with a +1/+1 counter.
+{1}, {T}: If target permanent has an even number of a chosen counter type, halve them. If not, multiply them by three and add one.</text>
+
+</card>
+
+<card>
+<name>MENACING AND FEROCIOUS BEAST</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1bn-gCJjVyE12MJewNLinccSBH_hIKrt4">HC6</set>
+<color>G</color>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>Menace
+Creatures you control that are beastly, menacing, or ferocious are all three. (If their power is less than 4, it is 4.)
+Ferocious — When this creature enters, draw a card for each creature you control with power 4 or greater.</text>
+
+</card>
+
+<card>
+<name>Zimone, Shipping Expert</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/16u-c3Aan4USTe6gJyu4L-dDsHWehmcIb">HC6</set>
+<color>U</color>
+<color>G</color>
+<manacost>G/UG/U</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/3</pt>
+<text>Your commanders cost {1} less to cast.
+When Zimone enters, if she's your only commander, search your library and sideboard for two cards that could be commanders together, put them into the command zone, then shuffle. They become your only commanders.</text>
+
+</card>
+
+<card>
+<name>Narset, Coolest Teacher</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/128fXSVpjQV7dx2ZUon0vfEdqc10eeddF">HC6</set>
+<color>W</color>
+<color>U</color>
+<color>R</color>
+<manacost>URW</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/2</pt>
+<text>Whenever you attack a player, learn.
+Drawing Painful Life Lessons —
+Kicker {2}, Choose Damage, Draw, or Life.
+When Narset enters, if it was kicked, you get an emblem with "Each blue, red, or white card in your sideboard that has the chosen work anywhere is a lesson."</text>
+
+</card>
+
+<card>
+<name>All Men Are Kings</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1uGyCRBp1hj6AGkOtMqsSG2I6VvPufvgL">HC6</set>
+<color>W</color>
+<manacost>2WW</manacost>
+<cmc>4</cmc>
+<type>Sorcery</type>
+<text>Each player creates a crown token (its an artifact token with monarch text. An instance of combat damage can steal one crown token.)</text>
+
+</card>
+
+<card>
+<name>ENTER // EXIT</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/14Bl2XPpFsnnK1Ycmjv1k0P749_MF0iEg">HC6</set>
+<color>W</color>
+<manacost>1W</manacost>
+<cmc>4</cmc>
+<type>Instant</type>
+<text>Creatures you control enter the battlefield.
+MERGE (fuse)</text>
+
+</card>
+
+<card>
+<name>Perfectly Balanced for Commander</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ePnZurqvCvTuniaHL9OZAn00u4VO81_b">HC6</set>
+<color>G</color>
+<manacost>3G</manacost>
+<cmc>4</cmc>
+<type>Creature</type>
+<text>Trample
+ Whenever ~ deals combat damage to a player conjure a random generic copy of a card that is restricted in Vintage but legal in Commander into your hand.</text>
+
+</card>
+
+<card>
+<name>Kami of the Howling Crescent Mine GX</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/12jDoiPS_gHn8eVzYZiEl2tRqncmJlOTf">HC6</set>
+<color>U</color>
+<manacost>2UU</manacost>
+<cmc>4</cmc>
+<type>Artifact Creature</type> <pt>3/3</pt>
+<text>At the beginning of each player's draw step, that player draws 2 card.
+{7}{U}{U}{U} GO GO GO GO GO!!! GX
+ EACH PLAYER DRAWS CARDS (ANY AMOUNT)
+YOU HAVE NO MAXIMUM HAND SIZE FOR THE REST OF THE GAME (Use only one GX move per game)</text>
+
+</card>
+
+<card>
+<name>The Lamb</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1onXqaioSyo3XVJwfg-N-MYxVgMBSBl5J">HC6</set>
+<color>G</color>
+<manacost>G</manacost>
+<cmc>1</cmc>
+<type>Creature</type> <pt>1/2</pt>
+<text>{T}: Add Sacrifice (Spend it as any sacrifice cost, or to spare a sacrifice from leaving the battlefield.)</text>
+
+</card>
+
+<card>
+<name>Mana Grift</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1wEaBGTuTw93jHtGfqINTORMg3CBVraWx">HC6</set>
+<color></color>
+<manacost>0</manacost>
+<cmc></cmc>
+<type>Artifact</type>
+<text>{T}: Add {T}. Activate only twice each turn.</text>
+
+</card>
+
+<card>
+<name>Rube's Altar</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1YRVxsv8_deouv0aE04tSdnhg9pDOhDvp">HC6</set>
+<color></color>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<type>Artifact</type>
+<text>Sacrifice a creature: Get {E}.
+{E}: Get {TK}.
+{TK}: Get {A}.
+{A}: Creature a Treasure token.</text>
+
+</card>
+
+<card>
+<name>Oko turns Kenrith into an Elk</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1p9_nIi7-2HtAl2EJVJOiXRDD62NNdr7S">HC6</set>
+<color>U</color>
+<color>G</color>
+<manacost>G/UG/U</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after I.)
+I — Target artifact or creature loses all abilities and becomes a green Elk creature with base power and toughness 3/3. Draw a card.</text>
+
+</card>
+
+<card>
+<name>Exempt from Power</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/15vUwSyI1NvdSJvcJn3N2I9iONSlpFv-m">HC6</set>
+<color>W</color>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>Enchant creature
+Enchanted creature has no power and toughness and state based actions don't apply to it. (It works)</text>
+
+</card>
+
+<card>
+<name>Discount Mox Box</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1OAv8pRNBDHDOcCh2OoZgB_A-dWNAYtoN">HC6</set>
+<color></color>
+<manacost>1</manacost>
+<cmc>1</cmc>
+<type>Artifact</type>
+<text>Start with you, each player chooses an Alpha mox that hasn't been chosen yet. After all players have chosen, you may choose again. Each player creates a tapped copy of their chosen mox.</text>
+
+</card>
+
+<card>
+<name>Reef Ouroboros</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1N74k0dIWUgwR9ZhnKQUrq5bHpKCXC1fA">HC6</set>
+<color>U</color>
+<manacost>3UU</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>When Reef Ouroboros dies, create a 4/4 blue Serpent creature token at the beginning of the next end step with "When this creature dies, create a 4/4 blue Serpent creature token at the beginning of the next end step with "When this creature dies, create a 4/4 blue Serpent creature token at the beginning of the next end step with "When this creature dies, create (it continues)</text>
+
+</card>
+
+<card>
+<name>The Gay Crime Skeleton</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1HogH3pEnRocOuU2PwS6uqPZXo_JbSp14">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Creature</type> <pt>0/1</pt>
+<text>Permanents you control are all colors.
+When you commit a crime from another source, you may reveal this from your hand or a public zone and pay {B}. When you do, they perpetually gain +1/+1, enter and fight target creature.</text>
+
+</card>
+
+<card>
+<name>My Shitty Dog Gniesbert Climbed Into My Caged Sun Again</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1liS6Tf3VDfdcQmQzfM5RfRn13NPpZ4oB">HC6</set>
+<color></color>
+<manacost>6</manacost>
+<cmc>6</cmc>
+<type>Artifact Creature</type> <pt>1/3</pt>
+<text>If My Shitty Dog Gniesbert Climbed Into My Caged Sun Again is your commander, choose a color before the game begins. Otherwise choose a color when it enters the battlefield. It is the chosen color.
+Creatures you control of the chosen color get +1/+1.
+Whenever a land's ability causes you to add one or more mana of the chosen color, add one additional mana of that color.</text>
+
+</card>
+
+<card>
+<name>Splain</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1OiMZsuj2wXoI1SQ54qxEx7-Ls8k3m-xJ">HC6</set>
+<color>W</color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>Splain enters the battlefield tapped.
+{T}: Add {W}.
+{T}: Add one mana of any color. Spend this mana only on cards with reminder text. They can't be countered.
+(Reminder text is when the card has extra text to explain what the card does after the text that explains what the card does.)
+(Make sure ot explai this to your opponent.)</text>
+
+</card>
+
+<card>
+<name>Mana Pride Shirt</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Dl7Q04BaNDmG8kTo2NQq0DzLA_TOJSmq">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Artifact</type>
+<text>When Mana Pride Shirt enters the battlefield, draw a card.
+{1}, {T}: Add one mana of any color.
+Equip {3}
+Equipped creature has protection from monocolored.</text>
+
+</card>
+
+<card>
+<name>Bloodrite Evoker</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1021idk9itbSeHiVejosMMowykjYxiqK7">HC6</set>
+<color>B</color>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/1</pt>
+<text>{8}: Target creature becomes an Evoked Mulldrifter, then enters under your control.</text>
+
+</card>
+
+<card>
+<name>Gotta Catch 'Em All</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1DeSvwJQ-6BH3xvFLFFcKNkC86vEqA2VZ">HC6</set>
+<color>W</color>
+<manacost>6WW</manacost>
+<cmc>8</cmc>
+<type>Sorcery</type>
+<text>Put target nontoken noncommander creature or planeswalker into the command zone. It becomes your commander. Then, if you have less than 6 commanders, copy this spell. You may choose new targets for the copy. You may choose new targets for the copy.</text>
+
+</card>
+
+<card>
+<name>OC (Do not Steal)</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1wwd3F90fI7qRsn3fN-zHtj7ZiLdkE0a_">HC6</set>
+<color>U</color>
+<manacost>1UU</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>{1}{U}{U}: OC (do not steal) becomes a copy of target creature except it is a different color of your choice and has this ability.</text>
+
+</card>
+
+<card>
+<name>Fomo Nomad</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1P65DGx_ejGWJehsNDHDzFnWjjzAlEKre">HC6</set>
+<color>R</color>
+<manacost>4R</manacost>
+<cmc>5</cmc>
+<type>Enchantment Creature</type> <pt>4/4</pt>
+<text>When Fear of Missing Out enters, discard a card, then draw a card.
+If you would draw one or more cards, instead exile twice that many cards from the top of your library. You may play them until the end of your next turn.</text>
+
+</card>
+
+<card>
+<name>Bathroom Break!</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ZYx4G0zpHdU6a3hOEf_mYDApDKFWgCnz">HC6</set>
+<color>U</color>
+<manacost>3U</manacost>
+<cmc>4</cmc>
+<type>Enchantment</type>
+<text>Enchant opponent
+You and permanents you control are phased out during enchanted player's turn. (This can't cause them to win the game.)
+At the beginning of your upkeep, attach Bathroom Break! to another opponent. If you can't sacrifice it.
+Flush {U}{U} (Like Flash if you pay {U}{U}.)</text>
+
+</card>
+
+<card>
+<name>Blonk</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/152eKLLUNNsbq9GZ59UfWn_veZxBpZj8K">HC6</set>
+<color>brown</color>
+<manacost>2/Brown</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Blonk Can.</text>
+
+</card>
+
+<card>
+<name>Squirrel Totem</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1wqmhs9aByJSyvugH8fmvVeTAX7gmNddk">HC6</set>
+<color></color>
+<manacost>0</manacost>
+<cmc></cmc>
+<type>Artifact</type>
+<text>You may draw from yoru Squirel deck. (Your Squirrel deck is a deck with an infinite amount of {0} 0/1 Squirrel creature tokens in it. Drawing from your Squirrel deck replaces your normal draw.)</text>
+
+</card>
+
+<card>
+<name>God's Wackiest Racer</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1etSlEhEKqsiXd3wO21pp7PoMU2g3_owG">HC6</set>
+<color>W</color>
+<color>G</color>
+<manacost>3G/WG/W</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Flying, Vigilance
+Permanents you control have Crew X. If a permanent is crewed this way, its base power and toughness becomes X/Y, where Y is the permanent's mana value.
+Crewed permanents have flying and vigilance.</text>
+
+</card>
+
+<card>
+<name>Liquimetal Courage</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1d8xFw4oiO1X_t1GpwO3Y336YwGNBW6o7">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Artifact</type>
+<text>{T}: Target permanent becomes a 1/3 artifact elf creature until the end of turn. Untap it.</text>
+
+</card>
+
+<card>
+<name>Opposite Day</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1kQrVLZcjDYzKg0MaDy3l1v43zWaMkvDq">HC6</set>
+<color>W</color>
+<manacost>3W</manacost>
+<cmc>4</cmc>
+<type>Enchantment</type>
+<text>Flash
+If a player would gain or lose life as part of anything but a cost, the opposite occurs instead. The same is true for drawing and discarding.
+In all other parts of the game and comprehensive rules, "tap" is replaced with "untap" and vice versa. (Hellsruls and rule 701.21, which defines tap and untap are unaffected. Turns have a tap step. Attack by untapping tapped creatures. Only tapped creatures can block. Permanents enter tapped by default but triomes enter untapped. Untap lands for mana.)
+At the begininng of your end step, sacrifice Opposite Day.</text>
+
+</card>
+
+<card>
+<name>Bigfoot</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1IgkUTj1m5BZQLV6VEDVmU5QT6mqhYQIh">HC6</set>
+<color>G</color>
+<manacost>2GG</manacost>
+<cmc>4</cmc>
+<type>Conspiracy Creature</type> <pt>*/*</pt>
+<text>Eminence — At the beginning of your upkeep, if Bigfoot is in the command zone or on the battlefield, target opponent investigates.
+Trample
+Bigfoot's P/T are both equal to the greatest number of cards in hand among players.</text>
+
+</card>
+
+<card>
+<name>Phil Swift, the Divider</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Ofbw821aVnvNLm0XXWqUWsCyD-a21--A">HC6</set>
+<color>B</color>
+<color>R</color>
+<manacost>2BR</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>Haste
+Whenever another nontoken creature you control with toughness greater than two would die, Saw it in Half instead. (Do what Saw in Half says. Dumbass.)</text>
+
+</card>
+
+<card>
+<name>Permutation Wizard</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1zXeo0EgEfQ6Rv9vbhkrKKMGl0N7fuIiD">HC6</set>
+<color>U</color>
+<manacost>0</manacost>
+<cmc>0</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>A| Protection from
+B| blue
+C| creatures
+D| that
+E| have
+F| flying
+choose one —
+{U} - A B C D E F
+{1}{U} - A C D E F
+{1}{U} - F C E A B
+{3}{U} - B C E F
+{2}{U} - C E A B
+{1}{U} - A B C
+{3}{U} - C E F
+{U}{U} - A B
+{2}{U} - A C
+{U} - F</text>
+
+</card>
+
+<card>
+<name>Penisless Blunderer</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1d6UVaUYX58-n4XYbLVS9qxE_vbUqHtig">HC6</set>
+<color>B</color>
+<manacost>3B</manacost>
+<cmc>4</cmc>
+<type>Artifact Creature</type> <pt>1/4</pt>
+<text>Whenever anoather creerure you control diess, create a shitty reprpodnction of it. (It's an arafact ttoken with the text box of the creature and "Sacrifice this arifdccr on the end of your turn")
+{B}, {T}, Sacrifice a ttoken: Draw a card.</text>
+
+</card>
+
+<card>
+<name>Long Fuck</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1jIU_C6FPlIcJR4uDRv_bDUXk0pRtA2tk">HC6</set>
+<color>G</color>
+<manacost>GG</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>3/4</pt>
+<text>Super reach (Long Fuck can block any creature no matter what.)</text>
+
+</card>
+
+<card>
+<name>Wet Hot Colossal Dreadmaw Summer</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/17ksH3ojAXvz_lqbxjqg4EThI5QN0WKyy">HC6</set>
+<color>G</color>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<type>Enchantment Creature</type> <pt>6/6</pt>
+<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Trample
+I — Dinner Date — Create two Food tokens. Sacrifice them and gain 3 life.
+II — This gains "{3}, {T}, {Q}, {T}, {Q}, {T}, {Q}, {T}: Populate."
+III — The Ring Tempts You. If this is your Ring-bearer, it loses Saga. (Don't sacrifice it.)</text>
+
+</card>
+
+<card>
+<name>Elden Ring Boss // Elden Ring Boss, Phase Two // Cool Boss Weapon Token</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1HCZ5qeLMUCTPZ_qcugbaJh3LwjSaqm0x">HC6</set>
+<color>W</color>
+<manacost>1WW</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>6/3</pt>
+<text>Annoying Delayed Attack — Whenever Elden Ring Boss attacks, exile it. Return it to the battlefield under your control tapped and attacking at the beginning of the declare attackers step on your next turn.
+When Elden Ring Boss dies, return it to the battlefield transformed.</text>
+
+</card>
+
+<card>
+<name>thereal Armor</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1EC0cbvK5p5TfNefYGK_K_CvnFb75UfVi">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Enchantment</type>
+<text>Equip creature {1}
+Equipped creature gets +1/+1 for each enchantment you control and has first strike.</text>
+
+</card>
+
+<card>
+<name>Twitch Doll</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Yi2MafYlzq3ANMEi4fqGWm1gX0jfLzeD">HC6</set>
+<color>G</color>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<type>Artifact Creature</type> <pt>2/2</pt>
+<text>{T}: Add one mana of any color. Put a sub counter on Twitching Doll.
+{T}, Plug Raid™ Shadow Legends: Create a Treasure token for each counter on Twitching Doll. Activate only as a sorcery. And lose a sub :(</text>
+
+</card>
+
+<card>
+<name>Devious Fundertaker</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1qZqZ6CvpBw29GnOAzULdFgNuiYaIVopN">HC6</set>
+<color>B</color>
+<manacost>4B</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>2/4</pt>
+<text>Creature cards in your graveyard have Graveyard Plot. Their graveyard plot costs are equal to thein mana costs.</text>
+
+</card>
+
+<card>
+<name>Holy Fuck, There's A Hornet in My Car ?</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1eObcRM7NxfOhOEyfKMREPxMJWPr3QfxA">HC6</set>
+<color>G</color>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Flying (around in my car)!!
+I better not move or else he will Create two Hornet Sting hand tokens whenever it enters or attacks</text>
+
+</card>
+
+<card>
+<name>Shocker//Wheeler</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1JYJsi15EwbRRJruIHMA7GBYKM8QOt6Id">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>If Shocker damages any, each player discard his or her hand, then draws a new hand of as many cards as seven.</text>
+
+</card>
+
+<card>
+<name>Three-Card Mawte</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1hnupsXhJm75Cz0r77ZGwOiO5q3Lr-HEh">HC6</set>
+<color>G</color>
+<manacost>3G</manacost>
+<cmc>4</cmc>
+<type>Sorcery</type>
+<text>Search your library for two land cards, reveal them, set them aside, then shuffle.
+Distribute the cards you set aside and a conjured Colossal Dreadmaw into three faced-down piles. You may shuffle their positions. An opponent chooses one of those piles. Put that pile under their control and the other cards under your control.</text>
+
+</card>
+
+<card>
+<name>Rage Baiter</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1oWCMj4dYuAX1FmOveslh5qC8_8xpZNdC">HC6</set>
+<color>R</color>
+<manacost>3RR</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>2/4</pt>
+<text>Provoke
+Creatures your opponents control have "Enrage — Whenever this creatuer is dealt damage, it deals 1 damage to its controller"
+Whenever one or more creatures your opponents control become enraged, exile the top card of your library. Until the end of your next turn, you may play that card</text>
+
+</card>
+
+<card>
+<name>Dr Acula</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1IyNv1o396GcAHvcZv1eIvX9q2GI2x1Ov">HC6</set>
+<color>B</color>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>0/1</pt>
+<text>Hippocratic Oath — You can't sacrifice creatures.
+Whenever Blood Artist or another creature dies, target player loses II life and you gain II life.</text>
+
+</card>
+
+<card>
+<name>Roomba</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1yWfDX3YCJDd5CLmQcfHqOqqlJHH7cU2X">HC6</set>
+<color>B</color>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<type>Artifact Creature</type> <pt>1/3</pt>
+<text>Skulk, Menace, Ingest, Ingest, Ingest
+This gets +1/+1 for each card it ingested.
+When Roomba dies, put all cards it ingested into their owners' graveyards.
+Empty it — {8}: Sacrifice Roomba. Any player may activate this ability. (But nobody ever does.)</text>
+
+</card>
+
+
+<card>
+<name>Demonic Gifter</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Q7cPArJNNdhvO38HDki3j9Yu7I9tUKm1">HC6</set>
+<color>B</color>
+<manacost>1BB</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/4</pt>
+<text>Flash
+Gift an Abyssal Persecutor (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a 6/6 black Demon creature token with flying, trample, and "You can't win the game and your opponents can't lose the game.")</text>
+
+</card>
+
+<card>
+<name>Alabastard Leech</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1yLZl-ZUEGvDcahqaohDwwpujFT2IwXAw">HC6</set>
+<color>W</color>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>1/3</pt>
+<text>Offspring {W}
+White spells you cast have offspring {W}. You must pay this cost.</text>
+
+</card>
+
+<card>
+<name>Liminality</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1egvcbFRfzbT_TUbUA3JNJQVbwx61fRyq">HC6</set>
+<color>U</color>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<type>Sorcery</type>
+<text>Target permanent becomes a zone containing itself.</text>
+
+</card>
+
+<card>
+<name>What a Coincidence</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1oeZpKQR4tnhEyXrLQWikKbFxVbZkrOou">HC6</set>
+<color>U</color>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<type>Instant</type>
+<text>Roll a d1 (Möbius strip).
+1 | Return target nonland permanent to its owners hand. Draw a card.
+2-20 | Take two extra turns after this one. Draw ten cards.</text>
+
+</card>
+
+<card>
+<name>NOW DRAW HER GIVING BIRTH</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1S-2V2WUEIn_MC0Jr-k2tjw1TehJphTLt">HC6</set>
+<color>G</color>
+<manacost>4G</manacost>
+<cmc>5</cmc>
+<type>Enchantment</type>
+<text>ALL YOUR CREATURES HAVE OFFSPRING {0}</text>
+
+</card>
+
+<card>
+<name>catnado</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1w6jGbdazdmqbO9qqU0yK76-eLlHiwdiR">HC6</set>
+<color>G</color>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Catnado gets +1/+1 for each other Cat you control.
+Flying, trample
+Forecast — {3}{G}, Reveal Catnado from your hand: Create two 1/1 white Cat creature tokens</text>
+
+</card>
+
+<card>
+<name>Dance Critic</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1aA5ciVAjqw_tr6SzVu58QNn0dFo_-UGS">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>3/2</pt>
+<text>Players can't shuffle. (Don't even bother with any tutoring.)</text>
+
+</card>
+
+<card>
+<name>Lockheed-Martin F-225 Predator Flagship</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ErxDmaity8GeCoTjpCNyg2H7U3EmIJmI">HC6</set>
+<color>B</color>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<type>Artifact Creature</type> <pt>4/1</pt>
+<text>As an additional cost to cast Lockheed-Martin F-225 Predator Flagship, pay {3}. (Sorry, it went overbudget again.)
+Flying, first strike, untargetable (Like hexproof but instead of magic it just has a small radar cross section.)
+{6}: Target creature has reach and must block if able until end of turn.</text>
+
+</card>
+
+<card>
+<name>Cubone</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1G7y0OV4DgiPI4His47WDUsnl2DjeINds">HC6</set>
+<color>W</color>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Evolve
+Maternal Death {W} (You may cast this spell for its maternal death cost. If you do, when this creature enters, sacrifice it and create a 1/1 token copy of it.)</text>
+
+</card>
+
+<card>
+<name>Super weaner</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/18lMtHDFaskFtvkkvxK_EfeHglFIg8sqC">HC6</set>
+<color>G</color>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/5</pt>
+<text>Menace
+Super weaners may reach their large sives by stealing an artifact from a player it damages or by gaining 2 life when a creature with greater power enters.</text>
+
+</card>
+
+<card>
+<name>Parasitic Sliver</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1K952FI3FKGL92jKT7ZikBEzC9SCn2r_y">HC6</set>
+<color>G</color>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Morph {G}
+Whenever one or more Slivers attack, you get that many {E}, then venture into the dungeon.
+{G}, {T}: Parasitic Sliver loses this ability and becomes an Aura enchantmet with enchant creature. Attach it to target creature. You may pay {G} to end this effect.
+Enchanted creature is a Sliver with toxic 1 and loses all other abilities.</text>
+
+</card>
+
+<card>
+<name>Gob' Mob</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1sS36ygDk85WDXklsBSANt6kgW6zRDyEK">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>3/2</pt>
+<text>Mobbin' (Can only be blocked by creatures with power greater than the number of attacking creatures.)
+When Gob' Mob attacks, up to one other target creature you control is Mobbin' until the end of turn.</text>
+
+</card>
+
+<card>
+<name>The Doves in Emissary's Ploy</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1r1i0mTvjccizBoxyBSvibTwcNa2mZW1h">HC6</set>
+<color></color>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Flying
+While building your deck, choose 1, 2, or 3. If The Doves in Emissary's Ploy is your commander, spells with that mana value have no color identity.
+You may spend mana as though it were mana of any color to cast spells with mana value equal to the chosen number.</text>
+
+</card>
+
+<card>
+<name>Copper Merchant of Ur</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1UwjTngzhZae93LDLH3W9YE7RmExr4AfH">HC6</set>
+<color>B</color>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/3</pt>
+<text>{T}: You and target opponent each create a Treasure token.
+Treasure tokens you don't control are named "Rock Painted Yellow" and lose all abilities.</text>
+
+</card>
+
+<card>
+<name>Phyrexian Basement</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1hkCPrUB6EXz5YiMPCmf9uNRfk7gaayJJ">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Land</type>
+<text>{T}: Add {C}.
+{B}{B}, {T}: Sacrificed creature isn't. (Return target creature from your graveyard to the battlefield if it was put there this turn due to a sacrifice effect.)</text>
+
+</card>
+
+<card>
+<name>Recycled Asset</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1DYvMWi4Qrslm3NM51luLqquwiQZ3VKPT">HC6</set>
+<color>U</color>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>0/0</pt>
+<text>You may have Recycled Asset enter as a copy of any creature you control, except its name, color, power and toughness are slightly different (You choose how. Power and toughness can't be changed by more than a total of one.)</text>
+
+</card>
+
+<card>
+<name>The Based God</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/14mw7LtfliGLhaC_VQnA1jntlmk5Z7bqZ">HC6</set>
+<color>W</color>
+<color>U</color>
+<color>B</color>
+<color>R</color>
+<color>G</color>
+<manacost>2/W2/U2/B2/R2/G</manacost>
+<cmc>10</cmc>
+<type>Creature</type> <pt>10/10</pt>
+<text>If The Based God is your commander, choose two colors before the game begins. The Based God's color identity is the chosen colors.
+Convoke
+As long as your devotion to hybrid is 10 or greater, The Based God has indestructible.
+Whenever you cast a spell that's a color not in your commanders' color identity, for each color it is, do the corresponding effect.
+White — Create a 1/1 Cleric creature token that's all colors.
+Blue — Draw a card.
+Black — Surveil 3.
+Red — Deal 2 damage to any target.
+Green — Put a +1/+1 counter on target creature.
+Other (One or more) — Do all of the above.</text>
+
+</card>
+
+<card>
+<name>Just Walk Out</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1nyK0amvsJMe_S13NbUyY7S7I8SWksgtp">HC6</set>
+<color>U</color>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<type>Enchantment</type>
+<text>{U}{T}: YOUR CREATURE PHASES!!</text>
+
+</card>
+
+<card>
+<name>Cloudy With a Chance of Meatballs</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1jJDezcb4RS2hGtqemoi0fx4uiSG5Z952">HC6</set>
+<color>U:G</color>
+<manacost>G/U</manacost>
+<cmc>1</cmc>
+<type>Instant</type>
+<text>Create a Food token.
+Storm</text>
+
+</card>
+
+<card>
+<name>Fox</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1NQb-hqv5MzHRCReJ9J7Xv9gmASEWlx-Z">HC6</set>
+<color>W</color>
+<manacost>1WW</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Melee!!
+{3}: Flicker Fox.</text>
+
+</card>
+
+<card>
+<name>discardian of the great door</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1OgePXz4RFDa7aKRWAnmpaxUrISQL1Jde">HC6</set>
+<color>W</color>
+<manacost>1WW</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>Madness — tap four untapped artifacts, creatures, and/or lands you control.
+Flying</text>
+
+</card>
+
+<card>
+<name>Three Three City</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ZYJaarp9NX1aaVh2yQEyDlpdJaKn5NG_">HC6</set>
+<color></color>
+<manacost></manacost>
+<cmc></cmc>
+<type>Artifact Land</type> <pt>3/3</pt>
+<text>As Three Tree City enters, choose an artifact type.
+{T}: Add {C}.
+{G}, {T}: Choose a color. Add an amount of mana of that color equal to the number of artifacts you control of the chosen type.
+Crew 2</text>
+
+</card>
+
+<card>
+<name>SAddle Mistress</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1br0ohcLKh3-tKckR2hy_LWrhnwl1rGaE">HC6</set>
+<color>B</color>
+<manacost>3B</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>1/4</pt>
+<text>Creatures have saddle 2.
+Whenever a saddled creature you control deals damage to an opponent, choose a color. That player reveals their hand and discards a card of that color.
+Whenever an unsaddled creature attacks you, put a -1/-1 counter on it.</text>
+
+</card>
+
+<card>
+<name>Ranger With the Big Iron on His Hip</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1hJvqk8np6coqMnZ3SEZ-vz3Ow3MXWN6S">HC6</set>
+<color>W</color>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/3</pt>
+<text>Flash
+When you cast The Ranger with the Big Iron on his Hip, replace each object in target spell's or permanent's text box with a "Big Iron" until end of turn. (Other tokens, spells, and cards are objects. The targeted object's name and self referential text remain unaffected.)</text>
+
+</card>
+
+<card>
+<name>Give In</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1xvK9v5URxwqK9XQkW7m5M_AUCLp25hBV">HC6</set>
+<color>G</color>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<type>Enchantment</type>
+<text>You can't cast spells.
+{G}: Colossal Dreadmanifest a card from your hand.
+Colossal Dreadmorph {0}. (Morph as a Colossal Dreadmaw for {4}{G}{G}.)</text>
+
+</card>
+
+<card>
+<name>Octodad</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1U949s5ApBifGPZaN47boLyWzSC2IAFyE">HC6</set>
+<color>W</color>
+<manacost>7W</manacost>
+<cmc>8</cmc>
+<type>Creature</type> <pt>8/8</pt>
+<text>Offspring {0}. Offspring {0}. Offspring {0}. Offspring {0}. Offspring {0}. Offspring {0}. Offspring {0}. Offspring {0}.</text>
+
+</card>
+
+<card>
+<name>BAGGER 293, GIANT EXCAVATOR</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1gd46iFLE_M_yxoMgF6mWXfKOjh5ux83n">HC6</set>
+<color>B</color>
+<manacost>4BBB</manacost>
+<cmc>7</cmc>
+<type>Artifact Creature</type> <pt>5/8</pt>
+<text>Trample
+Landfall — Whenever a land enterns under your control, target land you control becomes a copy of Strip Mine.
+Whenever a land card is put into a graveyard from the battlefield, create a treasure token.</text>
+
+</card>
+
+<card>
+<name>Dumpstergoyf</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1IlxM21OXSiM4DblPLu0hLsHQpzSarGH8">HC6</set>
+<color>R</color>
+<manacost>Discard your hand/RRR</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>*/*</pt>
+<text>Rummagelink (Damage dealt by this creature causes you to "discard a card, then draw a card" that many times.)
+Dumpstergoyf's power and toughness are each equal to the number of different mana values of cards in your graveyard.
+While this creature is on the battlefield, it's also at the bottom of your graveyard.</text>
+
+</card>
+
+<card>
+<name>#submissions council</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1y8sPxnfkBy-gZHXRUBmOxnIy4KVVVXJy">HC6</set>
+<color>W</color>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>{T}: Starting with the next player in the turn order, each player puts a +1/+1 counter on any creature and a -1/-1 counter on any creautre. (Creatures do not die from state-based actions while this ability is resolving. (It works.))</text>
+
+</card>
+
+<card>
+<name>Crowdstrike</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1gN3Um4V91HbBIpyA4xPX7D48K6I11egG">HC6</set>
+<color>W</color>
+<manacost>3W</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Flash, flying
+Artifacts your opponents control are blue Brick Artifacts with "{1}, {T}, sacrifice this: Deal 1 damage to any target" and lose all other types and abilities.</text>
+
+</card>
+
+<card>
+<name>Mild Nacatl</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1N_Ks1jU3KZAPzMy5wPeb7FGXha4sBfP-">HC6</set>
+<color>G</color>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/4</pt>
+<text>Sleeptouch (Any damage this creature deals to a creature causes it to tap.)
+Naplink (This does damage to creatures in the form of stun counters.)
+{4}, {T}: Mild Nacatl fights target creature.</text>
+
+</card>
+
+<card>
+<name>B             o                o</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1TMhC3zs-iH3fXo6dvCI9ocUlXPzSabrr">HC6</set>
+<color>R</color>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/3</pt>
+<text>Flash
+Whenever you cast a spell, add Boo (legendary boo token). Until end of turn, you don't lose this Boo (he's stuck here)</text>
+
+</card>
+
+<card>
+<name>giraffe legs // giraffe head</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1weU8i_vcClsvt0Yxu9aPWVXRNfxKzVu7">HC6</set>
+<color>G</color>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>5/8</pt>
+<text>(If one side of this card would enter a zone, both sides enter that zone instead.)
+Trample, reach, vigilance
+When Giraffe Legs enters the battlefield, choose an opponent to gain control of Giraffe Head.
+Giraffe Legs can't be tapped.</text>
+
+</card>
+
+<card>
+<name>NASmoranomardicadaistinaculdaCAR</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ifd9S_di0A3JTtYvue1adThuORIeuBI4">HC6</set>
+<color>R</color>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Vehicles you control have trample.
+{2}, {T}: Create a red 1/1 Racecar Vehicle artifact with crew 1 and "this gains the power and toughness of all creatures crewing it."
+Red vehicles have haste.
+(no, racecars can't drive other racecars what are you fucking stupid</text>
+
+</card>
+
+<card>
+<name>Termite Infestation</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1whYg8AoVSxif8RdbOSdrJJ1FEhSCLTOJ">HC6</set>
+<color>G</color>
+<manacost>2GG</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>When this creature enters, for each of up to six lands your opponents control, create a Carton token attached to it.
+Whenever one or more other insects enter under your control, put a +1/+1 counter on this creature.
+When this creature leaves the battlefield, sacrifice all Cartons you control.</text>
+
+</card>
+
+<card>
+<name>Goblin Accountant</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1atmBsSsGqcj9ebkVC1fORmXGNzYwbgDs">HC6</set>
+<color>R</color>
+<manacost>11R1</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>3/3</pt>
+<text>Small numbers are 1. (A small number is less than 4.)
+Big numbers are 8. (A big number is 4 or greater.)</text>
+
+</card>
+
+<card>
+<name>Jailbreak Angel</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Ci0WIuI8f5fZbLw7aBEFOWvDbib2m3pz">HC6</set>
+<color>W</color>
+<manacost>3WW</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>4/5</pt>
+<text>Flash
+Flying
+When Jailbreak Angel enters or leaves the battlefield, choose one —
+• Another target permanent enters.
+• Another target permanent leaves.
+(It doesn't actually change zones.)</text>
+
+</card>
+
+<card>
+<name>keeper of keywords</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1IFL943sFklOIhYmHPC_XhOSxPuGym5Sj">HC6</set>
+<color>U</color>
+<manacost>4UU</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>When Keeper of Keyworrds enters the battlefield, you become the monarch.
+If you're the monarch, creature spells you cast have Affinity for keyword abilities
+Trample</text>
+
+</card>
+
+<card>
+<name>Half-Centaur of Kruphix</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ICn8BljZeZh8EoeOcrHj5ULZ64K98UpW">HC6</set>
+<color>G</color>
+<manacost>GG</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/3</pt>
+<text>You may play the top card of your library if it is revealed. (Normal rules still apply.)
+Landfall — Reveal the top card of your library.</text>
+
+</card>
+
+<card>
+<name>Goldspam Dragon</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1reTzvFIgf6YA4CrRqmLVfeR2ueaOma9Q">HC6</set>
+<color>R</color>
+<manacost>3RR</manacost>
+<cmc>5</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>Flying, haste
+At the begining of each player's upkeep and whenever Goldspam Dragon attacks or becomes the target of a spell, each player creates a Treasure token.
+Whenever a player sacrifices a Treasure, put a +1/+1 counter on Goldspam Dragon.</text>
+
+</card>
+<card>
+<name>Cleverer Impersonator</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1T5VxSA5Gdpxfh2I-Gby6J_YmebI2iznD">HC6</set>
+<color>U</color>
+<manacost>4UU</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>0/0</pt>
+<text>You may have Cleverer Impersonator enter as a mingled copy of any permanents on the battlefield. (Combined but copy stats from only one creature.)</text>
+
+</card>
+
+<card>
+<name>Snapcrackle Mage</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1sCu6L3dFJdT3SFKoDttcevzKky6627_s">HC6</set>
+<color>U</color>
+<manacost>4UU</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>3/2</pt>
+<text>Flash
+When Snapcrackle Mage enters, put target instant or sorcery card in your graveyard onto the battlefield. It's a Food artifact with the food ability, and its spell effects are also part of that ability.</text>
+
+</card>
+
+<card>
+<name>Run of the Mill</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1WuAVeK10VnMOLrIoHDnfUzAiSSugm3Sp">HC6</set>
+<color>U</color>
+<manacost>3U</manacost>
+<cmc>4</cmc>
+<type>Enchantment</type>
+<text>I, II, III, IV — Choose {Paw} worth up to the current chapter. You may choose the same mode more than once.
+{Paw} — Create a 1/1 blue Fish creature token with "Whenever this creature attacks, each opponent mills two cards."
+{Paw}{Paw} — Surveil 2, then draw a card.
+{Paw}{Paw}{Paw} — Put target tapped creature on top of its owner's library.</text>
+
+</card>
+
+<card>
+<name>Tribute Artist</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1ZAt9250X6NBFWKs8w4fGndljy6dyrZAO">HC6</set>
+<color>U</color>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>When Tribute Artist enters, you may create a token copy of a legendary creature card in any graveyard or command zone. It enters with a -1/-1 counter.
+Bands with legends</text>
+
+</card>
+
+<card>
+<name>Home Raider</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1iH7Jr6v9NOvaygbf5AJOiShtA6x4qlwS">HC6</set>
+<color>U</color>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>1/1</pt>
+<text>Flying
+When Home Raider deals damage to an opponent, draw a card from the Deck of Someone Else's Things. (The Deck of Someone Else's Things is their library.)</text>
+
+</card>
+
+<card>
+<name>french vanilla green creature but I got it from starbucks and I kind of like it when they add the caramel and whip cream</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/19lLzwiNWeLC2M2pJoQAJWPE0GE12pGsg">HC6</set>
+<color>G</color>
+<manacost>1GGG</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>6/3</pt>
+<text>Ward {2}, trample, myriad
+Encore {3}{G}{G}{G}{G}{G}{G}</text>
+
+</card>
+
+<card>
+<name>Reducer of Quality</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1tB_3mX57zsEjML3FsxKQ5KcYFgrE6ejy">HC6</set>
+<color>B</color>
+<manacost>3BBB</manacost>
+<cmc>6</cmc>
+<type>Creature</type> <pt>6/6</pt>
+<text>Flying, trample
+At the beginning of your upkeep, choose one. Each other nonland permanent becomes shittier in that way.
+• All non-cost numbers on it are reduced by one.
+• All its costs are doubled. (A cost with multiple {T} costs multitaps permanents, which need to be untapped multiple times to actually untap.)
+• It loses its first printed ability.</text>
+
+</card>
+
+<card>
+<name>Battery of Rabbits</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1nirvRxeTOZd7Ix45jjejnC1t8nF23yAb">HC6</set>
+<color>R</color>
+<manacost>2RR</manacost>
+<cmc>4</cmc>
+<type>Artifact</type>
+<text>When this artifact enters or leaves the battlefield, create two Rabbit Battery tokens. (They're {R} 1/1 Equipment Rabbit artifact creatures with haste and "Equipped creature gets +1/+1 and has haste" and reconfigure {R}.)
+{2}, {T}, Sacrifice this artifact: You gain 3 life and draw a card.</text>
+
+</card>
+
+<card>
+<name>Electrostate-Based Field</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/12D_duVur5NEzb9OjSbzAR-QxcXy127Ax">HC6</set>
+<color>R</color>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>0/4</pt>
+<text>Defender
+704.5l If a permanent controlled by an opponent is put into a graveyard during a check for state-based actions, reduce the life total of each of your opponents by 1.</text>
+
+</card>
+
+<card>
+<name>Ask Calmly</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1yE7URXDd7Y68nRs1UZ8TW5qwoAgHXpPw">HC6</set>
+<color>W</color>
+<color>R</color>
+<manacost>2R/W</manacost>
+<cmc>3</cmc>
+<type>Kindred Instant</type>
+<text>Each opponent may have you draw a card. For each who didn't, pu two +1/+1 and a double strike counters on up to one creature.</text>
+
+</card>
+
+<card>
+<name>Malicious Microtransactor</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/19yTVug3DTePtDbPz_pZrScrdnlw_tmCp">HC6</set>
+<color>B</color>
+<manacost>2BB</manacost>
+<cmc>4</cmc>
+<type>Creature</type> <pt>4/4</pt>
+<text>Whenever another nonland permanent enters, you may pay {1}. If you do, one of its abilities becomes "{2}: Pruchase this DLC. (It reverts to the original ability.)"</text>
+
+</card>
+
+<card>
+<name>Chancellor of the Moss</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1Y4qSUrvcX3fbzHnkL77X6HF7CX4E9mR4">HC6</set>
+<color>B</color>
+<color>G</color>
+<manacost>4BBB/G</manacost>
+<cmc>7</cmc>
+<type>Creature</type> <pt>6/6</pt>
+<text>You may reveal this card from your opening hand. If you do, at the beginning of your first upkeep, create a Thallid token.
+Flying, sporecounterlink (Damage dealt by this creature also causes its controller to put that many spore counters on it.)
+Remove three spore counters from Chancellor of the Moss: Create a Thallid token.</text>
+
+</card>
+
+<card>
+<name>Scubers when you tell them not to Offspring or Populate</name>
+<set rarity="common" picURL="https://lh3.googleusercontent.com/d/1IK1zW9ddfPGxt1n_3BJtih-NNgJpOAtG">HC6</set>
+<color>G</color>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<type>Creature</type> <pt>2/2</pt>
+<text>Offspring {5}{G}{G}{G}
+When this creature enters, you may tap it. If you do, populate.</text>
+
+</card>
+
+</cards>
